@@ -1,152 +1,90 @@
 <!DOCTYPE html>
-<html lang="en" data-bs-theme="light">
+<html lang="en">
 <head>
-    <meta charset="utf-8">
+	<title><?= $title; ?> - Banse Brothers Transport</title>
 
-    <!-- Viewport -->
-    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, viewport-fit=cover">
-    
-    <!-- SEO meta tags -->
-    <title><?= $title; ?> - Care That Feels Like Home</title>
-    <meta name="description" content="Care That Feels Like Home Corporation - dedicated to delivering compassionate, high-quality home health care to individuals and families in Bismarck, North Dakota">
-    <meta name="keywords" content="Homecare, nursing, elderly, children, sick">
-    <meta name="author" content="Care That Feels Like Home Corporation.">
+	<!-- Meta Tags -->
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="author" content="Webestica.com">
+	<meta name="description" content="Booking - Multipurpose Online Booking Theme">
 
-    <!-- Webmanifest + Favicon / App icons -->
-    <link rel="manifest" href="../manifest.json">
-    <link rel="icon" type="image/jpg" href="<?= PROOT; ?>assets/media/logo/logo.jpg" sizes="32x32">
-    <link rel="apple-touch-icon" href="<?= PROOT; ?>assets/media/logo/logo.jpg">
-        
-    <!-- Theme switcher (color modes) -->
-    <script src="<?= PROOT; ?>assets/js/theme-switcher.js"></script>
+	<!-- Dark mode -->
+	<script>
+		const storedTheme = localStorage.getItem('theme')
+ 
+		const getPreferredTheme = () => {
+			if (storedTheme) {
+				return storedTheme
+			}
+			return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+		}
 
-    <!-- Import Google font (Inter) -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap" rel="stylesheet">
+		const setTheme = function (theme) {
+			if (theme === 'auto' && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+				document.documentElement.setAttribute('data-bs-theme', 'dark')
+			} else {
+				document.documentElement.setAttribute('data-bs-theme', theme)
+			}
+		}
 
-    <link rel="stylesheet" media="screen" href="<?= PROOT; ?>assets/css/swiper-bundle.min.css">
+		setTheme(getPreferredTheme())
 
-    <!-- Font icons -->
-    <link rel="stylesheet" href="<?= PROOT; ?>assets/icons/around-icons.min.css">
+		window.addEventListener('DOMContentLoaded', () => {
+		    var el = document.querySelector('.theme-icon-active');
+			if(el != 'undefined' && el != null) {
+				const showActiveTheme = theme => {
+				const activeThemeIcon = document.querySelector('.theme-icon-active use')
+				const btnToActive = document.querySelector(`[data-bs-theme-value="${theme}"]`)
+				const svgOfActiveBtn = btnToActive.querySelector('.mode-switch use').getAttribute('href')
 
-    <!-- Theme styles + Bootstrap -->
-    <link rel="stylesheet" media="screen" href="<?= PROOT; ?>assets/css/theme.min.css">
+				document.querySelectorAll('[data-bs-theme-value]').forEach(element => {
+					element.classList.remove('active')
+				})
 
-    <!-- Customizer generated styles -->
-    <link rel="stylesheet" href="<?= PROOT; ?>assets/css/care.css">
+				btnToActive.classList.add('active')
+				activeThemeIcon.setAttribute('href', svgOfActiveBtn)
+			}
 
-    <!-- Page loading styles -->
-    <style>
-        .page-loading {
-            position: fixed;
-            top: 0;
-            right: 0;
-            bottom: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            -webkit-transition: all .4s .2s ease-in-out;
-            transition: all .4s .2s ease-in-out;
-            background-color: #fff;
-            opacity: 0;
-            visibility: hidden;
-            z-index: 9999;
-        }
+			window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () => {
+				if (storedTheme !== 'light' || storedTheme !== 'dark') {
+					setTheme(getPreferredTheme())
+				}
+			})
 
-        [data-bs-theme="dark"] .page-loading {
-            background-color: #121519;
-        }
+			showActiveTheme(getPreferredTheme())
 
-        .page-loading.active {
-            opacity: 1;
-            visibility: visible;
-        }
+			document.querySelectorAll('[data-bs-theme-value]')
+				.forEach(toggle => {
+					toggle.addEventListener('click', () => {
+						const theme = toggle.getAttribute('data-bs-theme-value')
+						localStorage.setItem('theme', theme)
+						setTheme(theme)
+						showActiveTheme(theme)
+					})
+				})
 
-        .page-loading-inner {
-            position: absolute;
-            top: 50%;
-            left: 0;
-            width: 100%;
-            text-align: center;
-            -webkit-transform: translateY(-50%);
-            transform: translateY(-50%);
-            -webkit-transition: opacity .2s ease-in-out;
-            transition: opacity .2s ease-in-out;
-            opacity: 0;
-        }
+			}
+		})
+		
+	</script>
 
-        .page-loading.active > .page-loading-inner {
-            opacity: 1;
-        }
+	<!-- Favicon -->
+	<link rel="shortcut icon" href="assets/images/favicon.ico">
 
-        .page-loading-inner > span {
-            display: block;
-            font-family: "Inter", sans-serif;
-            font-size: 1rem;
-            font-weight: normal;
-            color: #6f788b;
-        }
+	<!-- Google Font -->
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Poppins:wght@400;500;700&display=swap">
 
-        [data-bs-theme="dark"] .page-loading-inner > span {
-            color: #fff;
-            opacity: .6;
-        }
+	<!-- Plugins CSS -->
+	<link rel="stylesheet" type="text/css" href="<?= PROOT; ?>assets/css/all.min.css">
+	<link rel="stylesheet" type="text/css" href="<?= PROOT; ?>assets/css/bootstrap-icons.css">
+	<link rel="stylesheet" type="text/css" href="<?= PROOT; ?>assets/css/choices.min.css">
+	<link rel="stylesheet" type="text/css" href="<?= PROOT; ?>assets/css/flatpickr.min.css">
 
-        .page-spinner {
-            display: inline-block;
-            width: 2.75rem;
-            height: 2.75rem;
-            margin-bottom: .75rem;
-            vertical-align: text-bottom;
-            background-color: #d7dde2; 
-            border-radius: 50%;
-            opacity: 0;
-            -webkit-animation: spinner .75s linear infinite;
-            animation: spinner .75s linear infinite;
-        }
-
-        [data-bs-theme="dark"] .page-spinner {
-            background-color: rgba(255,255,255,.25);
-        }
-
-        @-webkit-keyframes spinner {
-            0% {
-            -webkit-transform: scale(0);
-            transform: scale(0);
-            }
-            50% {
-            opacity: 1;
-            -webkit-transform: none;
-            transform: none;
-            }
-        }
-
-        @keyframes spinner {
-            0% {
-            -webkit-transform: scale(0);
-            transform: scale(0);
-            }
-            50% {
-            opacity: 1;
-            -webkit-transform: none;
-            transform: none;
-            }
-        }
-    </style>
-
-    <!-- Page loading scripts -->
-    <script>
-        (function () {
-            window.onload = function () {
-                const preloader = document.querySelector('.page-loading')
-                preloader.classList.remove('active')
-                setTimeout(function () {
-                    preloader.remove()
-                }, 1500)
-            }
-        })()
-    </script>
+	<!-- Theme CSS -->
+	<link rel="stylesheet" type="text/css" href="<?= PROOT; ?>assets/css/style.css">
 
     <!-- Google Tag Manager -->
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -157,18 +95,10 @@
     <!-- End Google Tag Manager -->
 </head>
 
-<!-- Body --> 
-<body class="<?= $body_class; ?>">
+<body>
 
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MB5J878T"
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
-
-    <!-- Page loading spinner -->
-    <div class="page-loading active">
-        <div class="page-loading-inner">
-            <div class="page-spinner"></div>
-            <span>Loading...</span>
-        </div>
-    </div>
+     
