@@ -19,11 +19,11 @@
     }
     session_start();
 
-    if (isset($_SESSION['CTFLHADMIN'])) {
-        $user_id = $_SESSION['CTFLHADMIN'];
+    if (isset($_SESSION['TRANSPORTADMIN'])) {
+        $user_id = $_SESSION['TRANSPORTADMIN'];
         $data = array($user_id, 'admin');
         $sql = "
-            SELECT * FROM care_users 
+            SELECT * FROM transport_users 
             WHERE user_id = ? 
             AND user_type = ?
             LIMIT 1
@@ -42,7 +42,7 @@
             }
 
         } else {
-            unset($_SESSION['CTFLHADMIN']);
+            unset($_SESSION['TRANSPORTADMIN']);
             redirect(PROOT . 'admin/');
         }
     }

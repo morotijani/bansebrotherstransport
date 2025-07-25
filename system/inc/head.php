@@ -6,8 +6,8 @@
 	<!-- Meta Tags -->
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta name="author" content="Webestica.com">
-	<meta name="description" content="Booking - Multipurpose Online Booking Theme">
+	<meta name="author" content="Banse Brothers Transport">
+	<meta name="description" content="Fast & Sustainable Road Freight Solutions">
 
 	<!-- Dark mode -->
 	<script>
@@ -63,14 +63,13 @@
 						showActiveTheme(theme)
 					})
 				})
-
 			}
 		})
 		
 	</script>
 
 	<!-- Favicon -->
-	<link rel="shortcut icon" href="assets/images/favicon.ico">
+	<link rel="shortcut icon" href="assets/media/logo/favicon.ico">
 
 	<!-- Google Font -->
 	<link rel="preconnect" href="https://fonts.googleapis.com">
@@ -78,27 +77,14 @@
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Poppins:wght@400;500;700&display=swap">
 
 	<!-- Plugins CSS -->
-	<link rel="stylesheet" type="text/css" href="<?= PROOT; ?>assets/css/all.min.css">
-	<link rel="stylesheet" type="text/css" href="<?= PROOT; ?>assets/css/bootstrap-icons.css">
-	<link rel="stylesheet" type="text/css" href="<?= PROOT; ?>assets/css/choices.min.css">
-	<link rel="stylesheet" type="text/css" href="<?= PROOT; ?>assets/css/flatpickr.min.css">
+	<link rel="stylesheet" type="text/css" href="assets/css/all.min.css">
+	<link rel="stylesheet" type="text/css" href="assets/css/bootstrap-icons.css">
+	<link rel="stylesheet" type="text/css" href="assets/css/choices.min.css">
+	<link rel="stylesheet" type="text/css" href="assets/css/flatpickr.min.css">
 
 	<!-- Theme CSS -->
-	<link rel="stylesheet" type="text/css" href="<?= PROOT; ?>assets/css/style.css">
+	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
 
-    <!-- Google Tag Manager -->
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-MB5J878T');</script>
-    <!-- End Google Tag Manager -->
 </head>
 
 <body>
-
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MB5J878T"
-    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
-     
