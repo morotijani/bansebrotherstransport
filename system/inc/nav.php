@@ -5,8 +5,8 @@
         <div class="container">
             <!-- Logo START -->
             <a class="navbar-brand" href="index.php">
-                <img class="light-mode-item navbar-brand-item" src="assets/media/logo/logo.png" alt="logo">
-                <img class="dark-mode-item navbar-brand-item" src="assets/media/logo/logo-light.png" alt="logo">
+                <img class="light-mode-item navbar-brand-item" src="<?= PROOT; ?>assets/media/logo/logo-nb.png" alt="logo">
+                <img class="dark-mode-item navbar-brand-item" src="<?= PROOT; ?>assets/media/logo/logo-nb.png" alt="logo">
             </a>
             <!-- Logo END -->
 

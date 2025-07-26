@@ -11,7 +11,7 @@ Main Banner START -->
     <div class="container">
         <div class="row">
             <div class="col-lg-10 ms-auto position-relative">
-                <img src="assets/media/hero-truck.jpg" class="rounded-3" alt="Transport truck on highway">
+                <img src="assets/media/cover-1.jpg" class="rounded-3" alt="Transport truck on highway">
 
                 <!-- Search START -->
                 <div class="col-11 col-sm-10 col-lg-8 col-xl-6 position-lg-middle ms-lg-8 ms-xl-7">

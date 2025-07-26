@@ -69,7 +69,7 @@
 	</script>
 
 	<!-- Favicon -->
-	<link rel="shortcut icon" href="assets/media/logo/favicon.ico">
+	<link rel="shortcut icon" href="<?= PROOT; ?>assets/media/logo/logo.jpg">
 
 	<!-- Google Font -->
 	<link rel="preconnect" href="https://fonts.googleapis.com">
@@ -77,13 +77,13 @@
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Poppins:wght@400;500;700&display=swap">
 
 	<!-- Plugins CSS -->
-	<link rel="stylesheet" type="text/css" href="assets/css/all.min.css">
-	<link rel="stylesheet" type="text/css" href="assets/css/bootstrap-icons.css">
-	<link rel="stylesheet" type="text/css" href="assets/css/choices.min.css">
-	<link rel="stylesheet" type="text/css" href="assets/css/flatpickr.min.css">
+	<link rel="stylesheet" type="text/css" href="<?= PROOT; ?>assets/css/all.min.css">
+	<link rel="stylesheet" type="text/css" href="<?= PROOT; ?>assets/css/bootstrap-icons.css">
+	<link rel="stylesheet" type="text/css" href="<?= PROOT; ?>assets/css/choices.min.css">
+	<link rel="stylesheet" type="text/css" href="<?= PROOT; ?>assets/css/flatpickr.min.css">
 
 	<!-- Theme CSS -->
-	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
+	<link rel="stylesheet" type="text/css" href="<?= PROOT; ?>assets/css/style.css">
 
 </head>
 
