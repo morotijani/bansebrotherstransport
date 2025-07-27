@@ -406,7 +406,7 @@ Global Reach START -->
             
             <!-- Right side - Map or image -->
             <div class="col-lg-6 mt-5 mt-lg-0">
-                <img src="assets/media/usa-map.jpg" class="rounded-3" alt="USA coverage map">
+                <img src="assets/media/africa-coverage-map.png" class="rounded-3" alt="USA coverage map">
             </div>
         </div>
     </div>
