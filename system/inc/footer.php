@@ -27,10 +27,10 @@
                         <div class="col-6 col-md-3">
                             <h5 class="text-white mb-2 mb-md-4">Company</h5>
                             <ul class="nav flex-column text-primary-hover">
-                                <li class="nav-item"><a class="nav-link text-body-secondary" href="about.php">About Us</a></li>
-                                <li class="nav-item"><a class="nav-link text-body-secondary" href="contact.php">Contact Us</a></li>
-                                <li class="nav-item"><a class="nav-link text-body-secondary" href="blog.php">News and Blog</a></li>
-                                <li class="nav-item"><a class="nav-link text-body-secondary" href="team.php">Meet Our Team</a></li>
+                                <li class="nav-item"><a class="nav-link text-body-secondary" href="<?= PROOT; ?>about.php">About Us</a></li>
+                                <li class="nav-item"><a class="nav-link text-body-secondary" href="<?= PROOT; ?>contact.php">Contact Us</a></li>
+                                <li class="nav-item"><a class="nav-link text-body-secondary" href="<?= PROOT; ?>blog.php">News and Blog</a></li>
+                                <li class="nav-item"><a class="nav-link text-body-secondary" href="<?= PROOT; ?>team.php">Meet Our Team</a></li>
                             </ul>
                         </div>
 
@@ -38,90 +38,90 @@
                         <div class="col-6 col-md-3">
                             <h5 class="text-white mb-2 mb-md-4">Services</h5>
                             <ul class="nav flex-column text-primary-hover">
-                                <li class="nav-item"><a class="nav-link text-body-secondary" href="services.php?type=full-truckload">Full Truckload</a></li>
-                            <li class="nav-item"><a class="nav-link text-body-secondary" href="services.php?type=less-than-truckload">Less Than Truckload</a></li>
-                            <li class="nav-item"><a class="nav-link text-body-secondary" href="services.php?type=temperature-controlled">Temperature-Controlled</a></li>
-                            <li class="nav-item"><a class="nav-link text-body-secondary" href="services.php?type=expedited">Expedited Shipping</a></li>
-                            <li class="nav-item"><a class="nav-link text-body-secondary" href="services.php?type=international">International Shipping</a></li>
-                        </ul>
-                    </div>
-                    
-                    <!-- Link block -->
-                    <div class="col-6 col-md-3">
-                        <h5 class="text-white mb-2 mb-md-4">Support</h5>
-                        <ul class="nav flex-column text-primary-hover">
-                            <li class="nav-item"><a class="nav-link text-body-secondary" href="quote.php">Get a Quote</a></li>
-                            <li class="nav-item"><a class="nav-link text-body-secondary" href="tracking.php">Track Shipment</a></li>
-                            <li class="nav-item"><a class="nav-link text-body-secondary" href="privacy.php">Privacy Policy</a></li>
-                            <li class="nav-item"><a class="nav-link text-body-secondary" href="terms.php">Terms & Conditions</a></li>
-                            <li class="nav-item"><a class="nav-link text-body-secondary" href="faq.php">FAQ</a></li>
-                        </ul>
-                    </div>
+                                <li class="nav-item"><a class="nav-link text-body-secondary" href="<?= PROOT; ?>services.php?type=full-truckload">Full Truckload</a></li>
+                                <li class="nav-item"><a class="nav-link text-body-secondary" href="<?= PROOT; ?>services.php?type=less-than-truckload">Less Than Truckload</a></li>
+                                <li class="nav-item"><a class="nav-link text-body-secondary" href="<?= PROOT; ?>services.php?type=temperature-controlled">Temperature-Controlled</a></li>
+                                <li class="nav-item"><a class="nav-link text-body-secondary" href="<?= PROOT; ?>services.php?type=expedited">Expedited Shipping</a></li>
+                                <li class="nav-item"><a class="nav-link text-body-secondary" href="<?= PROOT; ?>services.php?type=international">International Shipping</a></li>
+                            </ul>
+                        </div>
+                        
+                        <!-- Link block -->
+                        <div class="col-6 col-md-3">
+                            <h5 class="text-white mb-2 mb-md-4">Support</h5>
+                            <ul class="nav flex-column text-primary-hover">
+                                <li class="nav-item"><a class="nav-link text-body-secondary" href="<?= PROOT; ?>quote.php">Get a Quote</a></li>
+                                <li class="nav-item"><a class="nav-link text-body-secondary" href="<?= PROOT; ?>tracking.php">Track Shipment</a></li>
+                                <li class="nav-item"><a class="nav-link text-body-secondary" href="<?= PROOT; ?>privacy.php">Privacy Policy</a></li>
+                                <li class="nav-item"><a class="nav-link text-body-secondary" href="<?= PROOT; ?>terms.php">Terms & Conditions</a></li>
+                                <li class="nav-item"><a class="nav-link text-body-secondary" href="<?= PROOT; ?>faq.php">FAQ</a></li>
+                            </ul>
+                        </div>
 
-                    <!-- Link block -->
-                    <div class="col-6 col-md-3">
-                        <h5 class="text-white mb-2 mb-md-4">Connect</h5>
-                        <ul class="list-unstyled mb-0 text-primary-hover">
-                            <li><a class="text-body-secondary" href="#"><i class="bi bi-facebook me-2"></i>Facebook</a></li>
-                            <li><a class="text-body-secondary" href="#"><i class="bi bi-instagram me-2"></i>Instagram</a></li>
-                            <li><a class="text-body-secondary" href="#"><i class="bi bi-twitter me-2"></i>Twitter</a></li>
-                            <li><a class="text-body-secondary" href="#"><i class="bi bi-linkedin me-2"></i>Linkedin</a></li>
-                        </ul>
+                        <!-- Link block -->
+                        <div class="col-6 col-md-3">
+                            <h5 class="text-white mb-2 mb-md-4">Connect</h5>
+                            <ul class="list-unstyled mb-0 text-primary-hover">
+                                <li><a class="text-body-secondary" href="#"><i class="bi bi-facebook me-2"></i>Facebook</a></li>
+                                <li><a class="text-body-secondary" href="#"><i class="bi bi-instagram me-2"></i>Instagram</a></li>
+                                <li><a class="text-body-secondary" href="#"><i class="bi bi-twitter me-2"></i>Twitter</a></li>
+                                <li><a class="text-body-secondary" href="#"><i class="bi bi-linkedin me-2"></i>Linkedin</a></li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
-            </div>
-            <!-- Widget 2 END -->
-        </div><!-- Row END -->
+                <!-- Widget 2 END -->
+            </div><!-- Row END -->
 
-        <!-- Divider -->
-        <hr class="mt-4 mb-0">
+            <!-- Divider -->
+            <hr class="mt-4 mb-0">
 
-        <!-- Bottom footer -->
-        <div class="row">
-            <div class="col-12">
-                <div class="d-md-flex justify-content-between align-items-center py-3 text-center text-md-left">
-                    <!-- copyright text -->
-                    <div class="text-body-secondary text-primary-hover"> Copyrights ©<?php echo date('Y'); ?> Banse Brothers Transport. All rights reserved. </div>
-                    <!-- copyright links-->
-                    <div class="mt-3 mt-md-0">
-                        <ul class="list-inline mb-0">
-                            <li class="list-inline-item">
-                                <!-- Language selector -->
-                                <div class="dropup mt-0 text-center text-sm-end">
-                                    <a class="dropdown-toggle text-body-secondary" href="#" role="button" id="languageSwitcher" data-bs-toggle="dropdown" aria-expanded="false">
-                                        <i class="bi bi-globe me-2"></i>English
-                                    </a>
-                                    <ul class="dropdown-menu min-w-auto" aria-labelledby="languageSwitcher">
-                                        <li><a class="dropdown-item" href="#">English</a></li>
-                                        <li><a class="dropdown-item" href="#">German </a></li>
-                                        <li><a class="dropdown-item" href="#">Spanish</a></li>
-                                        <li><a class="dropdown-item" href="#">French</a></li>
-                                    </ul>
-                                </div>
-                            </li>
-                        </ul>
+            <!-- Bottom footer -->
+            <div class="row">
+                <div class="col-12">
+                    <div class="d-md-flex justify-content-between align-items-center py-3 text-center text-md-left">
+                        <!-- copyright text -->
+                        <div class="text-body-secondary text-primary-hover"> Copyrights &copy;<?php echo date('Y'); ?> Banse Brothers Transport. All rights reserved. </div>
+                        <!-- copyright links-->
+                        <div class="mt-3 mt-md-0">
+                            <ul class="list-inline mb-0">
+                                <li class="list-inline-item">
+                                    <!-- Language selector -->
+                                    <div class="dropup mt-0 text-center text-sm-end">
+                                        <a class="dropdown-toggle text-body-secondary" href="#" role="button" id="languageSwitcher" data-bs-toggle="dropdown" aria-expanded="false">
+                                            <i class="bi bi-globe me-2"></i>English
+                                        </a>
+                                        <ul class="dropdown-menu min-w-auto" aria-labelledby="languageSwitcher">
+                                            <li><a class="dropdown-item" href="#">English</a></li>
+                                            <li><a class="dropdown-item" href="#">German </a></li>
+                                            <li><a class="dropdown-item" href="#">Spanish</a></li>
+                                            <li><a class="dropdown-item" href="#">French</a></li>
+                                        </ul>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-</footer>
-<!-- =======================
-Footer END -->
+    </footer>
+    <!-- =======================
+    Footer END -->
 
-<!-- Back to top -->
-<div class="back-top"></div>
+    <!-- Back to top -->
+    <div class="back-top"></div>
 
-<!-- Bootstrap JS -->
-<script src="assets/js/bootstrap.bundle.min.js"></script>
+    <!-- Bootstrap JS -->
+    <script src="assets/js/bootstrap.bundle.min.js"></script>
 
-<!-- Vendors -->
-<script src="assets/js/jquery-3.7.1.min.js"></script>
-<script src="assets/js/choices.min.js"></script>
-<script src="assets/js/flatpickr.min.js"></script>
+    <!-- Vendors -->
+    <script src="assets/js/jquery-3.7.1.min.js"></script>
+    <script src="assets/js/choices.min.js"></script>
+    <script src="assets/js/flatpickr.min.js"></script>
 
-<!-- ThemeFunctions -->
-<script src="assets/js/functions.js"></script>
+    <!-- ThemeFunctions -->
+    <script src="assets/js/functions.js"></script>
 
 </body>
 </html>
