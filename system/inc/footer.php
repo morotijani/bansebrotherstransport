@@ -11,7 +11,7 @@
                 <!-- Widget 1 START -->
                 <div class="col-lg-3">
                     <!-- logo -->
-                    <a href="index.php">
+                    <a href="<?= PROOT; ?>index">
                         <img class="h-40px" src="<?= PROOT; ?>assets/media/logo/logo-nb.png" alt="logo">
                     </a>
                     <p class="my-3 text-body-secondary">Fast & Sustainable Road Freight Solutions for your business. Reliable, efficient, and eco-friendly transport services.</p>
