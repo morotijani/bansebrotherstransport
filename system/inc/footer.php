@@ -1,44 +1,44 @@
-</main>
-<!-- **************** MAIN CONTENT END **************** -->
+    </main>
+    <!-- **************** MAIN CONTENT END **************** -->
 
-<!-- =======================
-Footer START -->
-<footer class="bg-dark pt-5">
-    <div class="container">
-        <!-- Row START -->
-        <div class="row g-4">
+    <!-- =======================
+    Footer START -->
+    <footer class="bg-dark pt-5">
+        <div class="container">
+            <!-- Row START -->
+            <div class="row g-4">
 
-            <!-- Widget 1 START -->
-            <div class="col-lg-3">
-                <!-- logo -->
-                <a href="index.php">
-                    <img class="h-40px" src="assets/media/logo/logo-light.png" alt="logo">
-                </a>
-                <p class="my-3 text-body-secondary">Fast & Sustainable Road Freight Solutions for your business. Reliable, efficient, and eco-friendly transport services.</p>
-                <p class="mb-2"><a href="tel:+1234567890" class="text-body-secondary text-primary-hover"><i class="bi bi-telephone me-2"></i>+123 456 7890</a> </p>
-                <p class="mb-0"><a href="mailto:info@bansebrotherstransport.com" class="text-body-secondary text-primary-hover"><i class="bi bi-envelope me-2"></i>info@bansebrotherstransport.com</a></p>
-            </div>
-            <!-- Widget 1 END -->
+                <!-- Widget 1 START -->
+                <div class="col-lg-3">
+                    <!-- logo -->
+                    <a href="index.php">
+                        <img class="h-40px" src="<?= PROOT; ?>assets/media/logo/logo-nb.png" alt="logo">
+                    </a>
+                    <p class="my-3 text-body-secondary">Fast & Sustainable Road Freight Solutions for your business. Reliable, efficient, and eco-friendly transport services.</p>
+                    <p class="mb-2"><a href="tel:+1234567890" class="text-body-secondary text-primary-hover"><i class="bi bi-telephone me-2"></i>+123 456 7890</a> </p>
+                    <p class="mb-0"><a href="mailto:info@bansebrotherstransport.com" class="text-body-secondary text-primary-hover"><i class="bi bi-envelope me-2"></i>info@bansebrotherstransport.com</a></p>
+                </div>
+                <!-- Widget 1 END -->
 
-            <!-- Widget 2 START -->
-            <div class="col-lg-8 ms-auto">
-                <div class="row g-4">
-                    <!-- Link block -->
-                    <div class="col-6 col-md-3">
-                        <h5 class="text-white mb-2 mb-md-4">Company</h5>
-                        <ul class="nav flex-column text-primary-hover">
-                            <li class="nav-item"><a class="nav-link text-body-secondary" href="about.php">About Us</a></li>
-                            <li class="nav-item"><a class="nav-link text-body-secondary" href="contact.php">Contact Us</a></li>
-                            <li class="nav-item"><a class="nav-link text-body-secondary" href="blog.php">News and Blog</a></li>
-                            <li class="nav-item"><a class="nav-link text-body-secondary" href="team.php">Meet Our Team</a></li>
-                        </ul>
-                    </div>
+                <!-- Widget 2 START -->
+                <div class="col-lg-8 ms-auto">
+                    <div class="row g-4">
+                        <!-- Link block -->
+                        <div class="col-6 col-md-3">
+                            <h5 class="text-white mb-2 mb-md-4">Company</h5>
+                            <ul class="nav flex-column text-primary-hover">
+                                <li class="nav-item"><a class="nav-link text-body-secondary" href="about.php">About Us</a></li>
+                                <li class="nav-item"><a class="nav-link text-body-secondary" href="contact.php">Contact Us</a></li>
+                                <li class="nav-item"><a class="nav-link text-body-secondary" href="blog.php">News and Blog</a></li>
+                                <li class="nav-item"><a class="nav-link text-body-secondary" href="team.php">Meet Our Team</a></li>
+                            </ul>
+                        </div>
 
-                    <!-- Link block -->
-                    <div class="col-6 col-md-3">
-                        <h5 class="text-white mb-2 mb-md-4">Services</h5>
-                        <ul class="nav flex-column text-primary-hover">
-                            <li class="nav-item"><a class="nav-link text-body-secondary" href="services.php?type=full-truckload">Full Truckload</a></li>
+                        <!-- Link block -->
+                        <div class="col-6 col-md-3">
+                            <h5 class="text-white mb-2 mb-md-4">Services</h5>
+                            <ul class="nav flex-column text-primary-hover">
+                                <li class="nav-item"><a class="nav-link text-body-secondary" href="services.php?type=full-truckload">Full Truckload</a></li>
                             <li class="nav-item"><a class="nav-link text-body-secondary" href="services.php?type=less-than-truckload">Less Than Truckload</a></li>
                             <li class="nav-item"><a class="nav-link text-body-secondary" href="services.php?type=temperature-controlled">Temperature-Controlled</a></li>
                             <li class="nav-item"><a class="nav-link text-body-secondary" href="services.php?type=expedited">Expedited Shipping</a></li>
