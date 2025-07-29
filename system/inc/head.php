@@ -86,10 +86,8 @@
 	<link rel="stylesheet" type="text/css" href="<?= PROOT; ?>assets/css/style.css">
 
 </head>
-
 <body>
 	
-
 	<!-- Offcanvas menu START -->
 	<div class="offcanvas offcanvas-w-500px offcanvas-end" tabindex="-1" id="offcanvasBookstay" aria-labelledby="offcanvasBookstayLabel">
 		<div class="offcanvas-header border-bottom px-3">
@@ -204,26 +202,3 @@
 		</div>	
 	</div>
 	<!-- Offcanvas menu END -->
-
-
-
-
-	
-
-<!-- =======================
-Main banner START -->
-<section class="position-relative py-8 py-sm-9" style="background-image:url(assets/images/category/hotel/resort/bg-01.jpg); background-position: center left; background-size: cover;">
-	<!-- Background dark overlay -->
-	<div class="bg-overlay bg-dark opacity-2"></div>
-	<div class="container z-index-9 position-relative">
-		<div class="row">
-			<div class="col-xl-8 m-auto text-center py-xl-8">
-				<h1 class="display-4 text-white mb-3">A World Of Luxury Awaits You</h1>
-				<h5 class="text-white mb-3">Discover a New Look of Luxury Resorts.</h5>
-				<a href="#" class="btn btn-lg btn-dark mb-0">Discover More</a>
-			</div>
-		</div> <!-- Row END -->
-	</div>
-</section>
-<!-- =======================
-Main banner END -->
