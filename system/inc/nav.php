@@ -41,69 +41,6 @@
                                     </ul>
                                 </li>
 
-                                <!-- Dropdown submenu -->
-                                <li class="dropdown-submenu dropend">
-                                    <a class="dropdown-item dropdown-toggle" href="#">Flight</a>
-                                    <ul class="dropdown-menu" data-bs-popper="none">
-                                        <li> <a class="dropdown-item" href="index-flight.html">Flight Home</a></li>
-                                        <li> <a class="dropdown-item" href="flight-list.html">Flight List</a></li>
-                                        <li> <a class="dropdown-item" href="flight-detail.html">Flight Detail</a></li>
-                                        <li> <a class="dropdown-item" href="flight-booking.html">Flight Booking</a></li>
-                                    </ul>
-                                </li>
-
-                                <!-- Dropdown submenu -->
-                                <li class="dropdown-submenu dropend">
-                                    <a class="dropdown-item dropdown-toggle" href="#">Tour</a>
-                                    <ul class="dropdown-menu" data-bs-popper="none">
-                                        <li> <a class="dropdown-item" href="index-tour.html">Tour Home</a></li>
-                                        <li> <a class="dropdown-item" href="tour-grid.html">Tour Grid</a></li>
-                                        <li> <a class="dropdown-item" href="tour-detail.html">Tour Detail</a></li>
-                                        <li> <a class="dropdown-item" href="tour-booking.html">Tour Booking</a></li>
-                                    </ul>
-                                </li>
-
-                                <!-- Dropdown submenu -->
-                                <li class="dropdown-submenu dropend">
-                                    <a class="dropdown-item dropdown-toggle" href="#">Cab</a>
-                                    <ul class="dropdown-menu" data-bs-popper="none">
-                                        <li> <a class="dropdown-item" href="index-cab.html">Cab Home</a></li>
-                                        <li> <a class="dropdown-item" href="cab-list.html">Cab List</a></li>
-                                        <li> <a class="dropdown-item" href="cab-detail.html">Cab Detail</a></li>
-                                        <li> <a class="dropdown-item" href="cab-booking.html">Cab Booking</a></li>
-                                    </ul>
-                                </li>
-
-                                <!-- Dropdown submenu -->
-                                <li class="dropdown-submenu dropend">
-                                    <a class="dropdown-item dropdown-toggle" href="#">Directory</a>
-                                    <ul class="dropdown-menu" data-bs-popper="none">
-                                        <li> <a class="dropdown-item" href="index-directory.html">Directory Home</a></li>
-                                        <li> <a class="dropdown-item" href="directory-detail.html">Directory Detail</a></li>
-                                    </ul>
-                                </li>
-
-                                <!-- Dropdown submenu -->
-                                <li class="dropdown-submenu dropend">
-                                    <a class="dropdown-item dropdown-toggle" href="#">Add Listing</a>
-                                    <ul class="dropdown-menu" data-bs-popper="none">
-                                        <li> <a class="dropdown-item" href="join-us.html">Join us</a></li>
-                                        <li> <a class="dropdown-item" href="add-listing.html">Add Listing</a></li>
-                                        <li> <a class="dropdown-item" href="add-listing-minimal.html">Add Listing Minimal</a></li>
-                                        <li> <a class="dropdown-item" href="listing-added.html">Listing Added</a></li>
-                                    </ul>
-                                </li>
-
-                <!-- Dropdown submenu -->
-                                <li class="dropdown-submenu dropend">
-                                    <a class="dropdown-item dropdown-toggle" href="#">Hero</a>
-                                    <ul class="dropdown-menu" data-bs-popper="none">
-                                        <li> <a class="dropdown-item" href="hero-inline-form.html">Hero Inline Form</a></li>
-                                        <li> <a class="dropdown-item" href="hero-multiple-search.html">Hero Multiple Search</a></li>
-                                        <li> <a class="dropdown-item" href="hero-image-gallery.html">Hero Image Gallery</a></li>
-                                        <li> <a class="dropdown-item" href="hero-split.html">Hero Split</a></li>
-                                    </ul>
-                                </li>
 
                                 <li> <a class="dropdown-item" href="booking-confirm.html">Booking Confirmed</a></li>
                                 <li> <a class="dropdown-item" href="compare-listing.html">Compare Listing</a></li>
@@ -111,20 +48,21 @@
                             </ul>
                         </li>
 
-                        <!-- Nav item Link -->
-                        <li class="nav-item"> <a class="nav-link" href="#">Our Story</a> </li>
+                       <!-- Nav item Fleet -->
+                        <li class="nav-item">
+                            <a class="nav-link" href="<?= PROOT; ?>fleet">Our Fleet</a>
+                        </li>
 
-                        <!-- Nav item Link -->
-                        <li class="nav-item"> <a class="nav-link" href="#">Experience</a> </li>
+                        <!-- Nav item About -->
+                        <li class="nav-item">
+                            <a class="nav-link" href="<?= PROOT; ?>about">About Us</a>
+                        </li>
 
-                        <!-- Nav item Link -->
-                        <li class="nav-item"> <a class="nav-link" href="#">Rooms & Suites</a> </li>
+                        <!-- Nav item Contact -->
+                        <li class="nav-item">
+                            <a class="nav-link" href="<?= PROOT; ?>contact">Contact</a>
+                        </li>
 
-                        <!-- Nav item Link -->
-                        <li class="nav-item"> <a class="nav-link" href="#">Offers</a> </li>
-
-                        <!-- Nav item Link -->
-                        <li class="nav-item"> <a class="nav-link" href="#">Gallery</a> </li>
                     </ul>
                 </div>
                 <!-- Main navbar END -->
