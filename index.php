@@ -4,26 +4,27 @@
     include ("system/inc/head.php");
     include ("system/inc/nav.php");
 ?>
-<!-- =======================
-Main banner START -->
-<section class="position-relative py-8 py-sm-9" style="background-image:url(assets/images/category/hotel/resort/bg-01.jpg); background-position: center left; background-size: cover;">
-	<!-- Background dark overlay -->
-	<div class="bg-overlay bg-dark opacity-2"></div>
-	<div class="container z-index-9 position-relative">
-		<div class="row">
-			<div class="col-xl-8 m-auto text-center py-xl-8">
-				<h1 class="display-4 text-white mb-3">A World Of Luxury Awaits You</h1>
-				<h5 class="text-white mb-3">Discover a New Look of Luxury Resorts.</h5>
-				<a href="#" class="btn btn-lg btn-dark mb-0">Discover More</a>
-			</div>
-		</div> <!-- Row END -->
-	</div>
-</section>
-<!-- =======================
-Main banner END -->
 
-<!-- =======================
-Main Banner START -->
+    <!-- =======================
+    Main banner START -->
+    <section class="position-relative py-8 py-sm-9" style="background-image:url(<?= PROOT; ?>assets/media/cover-2.jpg); background-position: center left; background-size: cover;">
+        <!-- Background dark overlay -->
+        <div class="bg-overlay bg-dark opacity-2"></div>
+        <div class="container z-index-9 position-relative">
+            <div class="row">
+                <div class="col-xl-8 m-auto text-center py-xl-8">
+                    <h1 class="display-4 text-white mb-3">Fast & Sustainable Road Freight Solutions</h1>
+                    <h5 class="text-white mb-3">Express pallet & cargo shipping with same-day or next-day delivery, on as little as one hour's notice. Real-time tracking. Optimized routes. The best customer experience.</h5>
+                    <a href="#" class="btn btn-lg btn-dark mb-0">Discover More</a>
+                </div>
+            </div> <!-- Row END -->
+        </div>
+    </section>
+    <!-- =======================
+    Main banner END -->
+
+    <!-- =======================
+    Main Banner START -->
 <section class="pt-0 pt-lg-5">
     <div class="container">
         <div class="row">
