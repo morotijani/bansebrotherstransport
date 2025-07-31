@@ -76,136 +76,136 @@
 
                                                 <!-- Auto fill button -->
                                                 <div class="btn-flip-icon z-index-9 mt-2 mt-md-1">
-                                                <button type="button" class="btn btn-dark shadow btn-round mb-0"><i class="fa-solid fa-right-left"></i></button>
+                                                    <button type="button" class="btn btn-dark shadow btn-round mb-0"><i class="fa-solid fa-right-left"></i></button>
+                                                </div>
                                             </div>
-                                        </div>
 
-                                        <!-- Drop -->
-                                        <div class="col-md-6 text-md-end">
-                                            <div class="form-fs-lg form-control-transparent">
-                                                <label class="form-label small ms-3 ms-md-0 me-md-3">Delivery Location</label>
-                                                <select class="form-select js-choice" name="delivery" data-search-enabled="true" required>
-                                                    <option value="">Select Location</option>
-                                                    <option>New York</option>
-                                                    <option>Chicago</option>
-                                                    <option>Los Angeles</option>
-                                                    <option>Miami</option>
-                                                    <option>Dallas</option>
-                                                </select>
-                                            </div>	
-                                        </div>
-
-                                        <!-- Date -->
-                                        <div class="col-md-6">
-                                            <div class="form-fs-lg form-control-transparent">
-                                                <label class="form-label small">Pickup Date</label>
-                                                <input type="text" name="pickupDate" class="form-control flatpickr" placeholder="Select date" required>
+                                            <!-- Drop -->
+                                            <div class="col-md-6 text-md-end">
+                                                <div class="form-fs-lg form-control-transparent">
+                                                    <label class="form-label small ms-3 ms-md-0 me-md-3">Delivery Location</label>
+                                                    <select class="form-select js-choice" name="delivery" data-search-enabled="true" required>
+                                                        <option value="">Select Location</option>
+                                                        <option>New York</option>
+                                                        <option>Chicago</option>
+                                                        <option>Los Angeles</option>
+                                                        <option>Miami</option>
+                                                        <option>Dallas</option>
+                                                    </select>
+                                                </div>	
                                             </div>
-                                        </div>
 
-                                        <!-- Service Type -->
-                                        <div class="col-md-6 text-md-end">
-                                            <div class="form-fs-lg form-control-transparent">
-                                                <label class="form-label small ms-3 ms-md-0 me-md-3">Service Type</label>
-                                                <select class="form-select" name="serviceType" required>
-                                                    <option value="">Select Service</option>
-                                                    <option value="FTL">Full Truckload (FTL)</option>
-                                                    <option value="LTL">Less Than Truckload (LTL)</option>
-                                                    <option value="Temperature-Controlled">Temperature-Controlled</option>
-                                                    <option value="Specialized">Specialized Transport</option>
-                                                </select>
+                                            <!-- Date -->
+                                            <div class="col-md-6">
+                                                <div class="form-fs-lg form-control-transparent">
+                                                    <label class="form-label small">Pickup Date</label>
+                                                    <input type="text" name="pickupDate" class="form-control flatpickr" placeholder="Select date" required>
+                                                </div>
                                             </div>
-                                        </div>
-                                    </div>
-                                    
-                                    <!-- Button -->
-                                    <div class="text-center pt-4">
-                                        <button type="submit" class="btn btn-primary mb-0">Get Quote</button>
-                                    </div>
-                                </div>
-                                <!-- One way END -->
 
-                                <!-- Round trip START -->
-                                <div class="tab-pane fade" id="freight-round-way" role="tabpanel" aria-labelledby="freight-round-way-tab">
-                                    <!-- Similar form fields as one-way with return date added -->
-                                    <div class="row g-2 g-md-4">
-                                        <!-- Pickup -->
-                                        <div class="col-md-6 position-relative">
-                                            <div class="form-fs-lg form-control-transparent">
-                                                <label class="form-label small">Pickup Location</label>
-                                                <select class="form-select js-choice" name="pickup_round" data-search-enabled="true">
-                                                    <option value="">Select location</option>
-                                                    <option>New York</option>
-                                                    <option>Chicago</option>
-                                                    <option>Los Angeles</option>
-                                                    <option>Miami</option>
-                                                    <option>Dallas</option>
-                                                </select>
-                                            </div>
-                                        </div>
-
-                                        <!-- Drop -->
-                                        <div class="col-md-6 text-md-end">
-                                            <div class="form-fs-lg form-control-transparent">
-                                                <label class="form-label small ms-3 ms-md-0 me-md-3">Delivery Location</label>
-                                                <select class="form-select js-choice" name="delivery_round" data-search-enabled="true">
-                                                    <option value="">Select Location</option>
-                                                    <option>New York</option>
-                                                    <option>Chicago</option>
-                                                    <option>Los Angeles</option>
-                                                    <option>Miami</option>
-                                                    <option>Dallas</option>
-                                                </select>
-                                            </div>	
-                                        </div>
-
-                                        <!-- Pickup Date -->
-                                        <div class="col-md-6">
-                                            <div class="form-fs-lg form-control-transparent">
-                                                <label class="form-label small">Pickup Date</label>
-                                                <input type="text" name="pickupDate_round" class="form-control flatpickr" placeholder="Select date">
-                                            </div>
-                                        </div>
-
-                                        <!-- Return Date -->
-                                        <div class="col-md-6">
-                                            <div class="form-fs-lg form-control-transparent">
-                                                <label class="form-label small">Return Date</label>
-                                                <input type="text" name="returnDate" class="form-control flatpickr" placeholder="Select date">
+                                            <!-- Service Type -->
+                                            <div class="col-md-6 text-md-end">
+                                                <div class="form-fs-lg form-control-transparent">
+                                                    <label class="form-label small ms-3 ms-md-0 me-md-3">Service Type</label>
+                                                    <select class="form-select" name="serviceType" required>
+                                                        <option value="">Select Service</option>
+                                                        <option value="FTL">Full Truckload (FTL)</option>
+                                                        <option value="LTL">Less Than Truckload (LTL)</option>
+                                                        <option value="Temperature-Controlled">Temperature-Controlled</option>
+                                                        <option value="Specialized">Specialized Transport</option>
+                                                    </select>
+                                                </div>
                                             </div>
                                         </div>
                                         
-                                        <!-- Service Type -->
-                                        <div class="col-md-6 text-md-end">
-                                            <div class="form-fs-lg form-control-transparent">
-                                                <label class="form-label small ms-3 ms-md-0 me-md-3">Service Type</label>
-                                                <select class="form-select" name="serviceType_round">
-                                                    <option value="">Select Service</option>
-                                                    <option value="FTL">Full Truckload (FTL)</option>
-                                                    <option value="LTL">Less Than Truckload (LTL)</option>
-                                                    <option value="Temperature-Controlled">Temperature-Controlled</option>
-                                                    <option value="Specialized">Specialized Transport</option>
-                                                </select>
-                                            </div>
+                                        <!-- Button -->
+                                        <div class="text-center pt-4">
+                                            <button type="submit" class="btn btn-primary mb-0">Get Quote</button>
                                         </div>
                                     </div>
-                                    
-                                    <!-- Button -->
-                                    <div class="text-center pt-4">
-                                        <button type="submit" class="btn btn-primary mb-0">Get Quote</button>
+                                    <!-- One way END -->
+
+                                    <!-- Round trip START -->
+                                    <div class="tab-pane fade" id="freight-round-way" role="tabpanel" aria-labelledby="freight-round-way-tab">
+                                        <!-- Similar form fields as one-way with return date added -->
+                                        <div class="row g-2 g-md-4">
+                                            <!-- Pickup -->
+                                            <div class="col-md-6 position-relative">
+                                                <div class="form-fs-lg form-control-transparent">
+                                                    <label class="form-label small">Pickup Location</label>
+                                                    <select class="form-select js-choice" name="pickup_round" data-search-enabled="true">
+                                                        <option value="">Select location</option>
+                                                        <option>New York</option>
+                                                        <option>Chicago</option>
+                                                        <option>Los Angeles</option>
+                                                        <option>Miami</option>
+                                                        <option>Dallas</option>
+                                                    </select>
+                                                </div>
+                                            </div>
+
+                                            <!-- Drop -->
+                                            <div class="col-md-6 text-md-end">
+                                                <div class="form-fs-lg form-control-transparent">
+                                                    <label class="form-label small ms-3 ms-md-0 me-md-3">Delivery Location</label>
+                                                    <select class="form-select js-choice" name="delivery_round" data-search-enabled="true">
+                                                        <option value="">Select Location</option>
+                                                        <option>New York</option>
+                                                        <option>Chicago</option>
+                                                        <option>Los Angeles</option>
+                                                        <option>Miami</option>
+                                                        <option>Dallas</option>
+                                                    </select>
+                                                </div>	
+                                            </div>
+
+                                            <!-- Pickup Date -->
+                                            <div class="col-md-6">
+                                                <div class="form-fs-lg form-control-transparent">
+                                                    <label class="form-label small">Pickup Date</label>
+                                                    <input type="text" name="pickupDate_round" class="form-control flatpickr" placeholder="Select date">
+                                                </div>
+                                            </div>
+
+                                            <!-- Return Date -->
+                                            <div class="col-md-6">
+                                                <div class="form-fs-lg form-control-transparent">
+                                                    <label class="form-label small">Return Date</label>
+                                                    <input type="text" name="returnDate" class="form-control flatpickr" placeholder="Select date">
+                                                </div>
+                                            </div>
+                                            
+                                            <!-- Service Type -->
+                                            <div class="col-md-6 text-md-end">
+                                                <div class="form-fs-lg form-control-transparent">
+                                                    <label class="form-label small ms-3 ms-md-0 me-md-3">Service Type</label>
+                                                    <select class="form-select" name="serviceType_round">
+                                                        <option value="">Select Service</option>
+                                                        <option value="FTL">Full Truckload (FTL)</option>
+                                                        <option value="LTL">Less Than Truckload (LTL)</option>
+                                                        <option value="Temperature-Controlled">Temperature-Controlled</option>
+                                                        <option value="Specialized">Specialized Transport</option>
+                                                    </select>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        
+                                        <!-- Button -->
+                                        <div class="text-center pt-4">
+                                            <button type="submit" class="btn btn-primary mb-0">Get Quote</button>
+                                        </div>
                                     </div>
+                                    <!-- Round trip END -->
                                 </div>
-                                <!-- Round trip END -->
-                            </div>
-                        </form>
+                            </form>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-</section>
-<!-- =======================
-Main Banner END -->
+    </section>
+    <!-- =======================
+    Main Banner END -->
 
 <!-- =======================
 Services START -->
