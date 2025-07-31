@@ -15,7 +15,7 @@
                 <div class="col-xl-8 m-auto text-center py-xl-8">
                     <h1 class="display-5 text-white mb-3">Fast & Sustainable Road Freight Solutions</h1>
                     <h5 class="lead text-secondary mb-3">Express pallet & cargo shipping with same-day or next-day delivery, on as little as one hour's notice. Real-time tracking. Optimized routes. The best customer experience.</h5>
-                    <a href="#" class="btn btn-lg btn-dark mb-0">Discover More</a>
+                    <a href="<?= PROOT; ?>about" class="btn btn-lg btn-dark mb-0">Discover More</a>
                 </div>
             </div> <!-- Row END -->
         </div>
@@ -25,57 +25,57 @@
 
     <!-- =======================
     Main Banner START -->
-<section class="pt-0 pt-lg-5">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-10 ms-auto position-relative">
-                <img src="assets/media/cover-1.jpg" class="rounded-3" alt="Transport truck on highway">
+    <section class="pt-0 pt-lg-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-10 ms-auto position-relative">
+                    <img src="assets/media/cover-1.jpg" class="rounded-3" alt="Transport truck on highway">
 
-                <!-- Search START -->
-                <div class="col-11 col-sm-10 col-lg-8 col-xl-6 position-lg-middle ms-lg-8 ms-xl-7">
-                    <div class="card shadow pb-0 mt-n7 mt-sm-n8 mt-lg-0">
+                    <!-- Search START -->
+                    <div class="col-11 col-sm-10 col-lg-8 col-xl-6 position-lg-middle ms-lg-8 ms-xl-7">
+                        <div class="card shadow pb-0 mt-n7 mt-sm-n8 mt-lg-0">
 
-                        <!-- Card header -->
-                        <div class="card-header border-bottom p-3 p-sm-4">
-                            <h5 class="card-title mb-0">Request a Freight Quote</h5>
-                        </div>
-
-                        <!-- Card body START -->
-                        <form class="card-body form-control-border p-3 p-sm-4" method="post" action="process_quote.php">
-                            <!-- Tabs START -->
-                            <div class="nav nav-pills mb-3" id="pills-tab" role="tablist">
-                                <div class="form-check form-check-inline active" id="freight-one-way-tab" data-bs-toggle="pill" data-bs-target="#freight-one-way" role="tab" aria-controls="freight-one-way" aria-selected="true">
-                                    <input class="form-check-input" type="radio" name="tripType" id="freightRadio1" value="one-way" checked>
-                                    <label class="form-check-label" for="freightRadio1">One Way</label>
-                                </div>
-                                <div class="form-check form-check-inline" id="freight-round-way-tab" data-bs-toggle="pill" data-bs-target="#freight-round-way" role="tab" aria-controls="freight-round-way" aria-selected="false">
-                                    <input class="form-check-input" type="radio" name="tripType" id="freightRadio2" value="round-trip">
-                                    <label class="form-check-label" for="freightRadio2">Round Trip</label>
-                                </div>
+                            <!-- Card header -->
+                            <div class="card-header border-bottom p-3 p-sm-4">
+                                <h5 class="card-title mb-0">Request a Freight Quote</h5>
                             </div>
-                            <!-- Tabs END -->
 
-                            <!-- Tabs content START -->
-                            <div class="tab-content my-4" id="pills-tabContent">
-                                <!-- One way START -->
-                                <div class="tab-pane fade show active" id="freight-one-way" role="tabpanel" aria-labelledby="freight-one-way-tab">
-                                    <div class="row g-2 g-md-4">
-                                        <!-- Pickup -->
-                                        <div class="col-md-6 position-relative">
-                                            <div class="form-fs-lg form-control-transparent">
-                                                <label class="form-label small">Pickup Location</label>
-                                                <select class="form-select js-choice" name="pickup" data-search-enabled="true" required>
-                                                    <option value="">Select location</option>
-                                                    <option>New York</option>
-                                                    <option>Chicago</option>
-                                                    <option>Los Angeles</option>
-                                                    <option>Miami</option>
-                                                    <option>Dallas</option>
-                                                </select>
-                                            </div>
+                            <!-- Card body START -->
+                            <form class="card-body form-control-border p-3 p-sm-4" method="post" action="process_quote.php">
+                                <!-- Tabs START -->
+                                <div class="nav nav-pills mb-3" id="pills-tab" role="tablist">
+                                        <div class="form-check form-check-inline active" id="freight-one-way-tab" data-bs-toggle="pill" data-bs-target="#freight-one-way" role="tab" aria-controls="freight-one-way" aria-selected="true">
+                                        <input class="form-check-input" type="radio" name="tripType" id="freightRadio1" value="one-way" checked>
+                                        <label class="form-check-label" for="freightRadio1">One Way</label>
+                                    </div>
+                                    <div class="form-check form-check-inline" id="freight-round-way-tab" data-bs-toggle="pill" data-bs-target="#freight-round-way" role="tab" aria-controls="freight-round-way" aria-selected="false">
+                                        <input class="form-check-input" type="radio" name="tripType" id="freightRadio2" value="round-trip">
+                                        <label class="form-check-label" for="freightRadio2">Round Trip</label>
+                                    </div>
+                                </div>
+                                <!-- Tabs END -->
 
-                                            <!-- Auto fill button -->
-                                            <div class="btn-flip-icon z-index-9 mt-2 mt-md-1">
+                                <!-- Tabs content START -->
+                                <div class="tab-content my-4" id="pills-tabContent">
+                                    <!-- One way START -->
+                                    <div class="tab-pane fade show active" id="freight-one-way" role="tabpanel" aria-labelledby="freight-one-way-tab">
+                                        <div class="row g-2 g-md-4">
+                                            <!-- Pickup -->
+                                            <div class="col-md-6 position-relative">
+                                                <div class="form-fs-lg form-control-transparent">
+                                                    <label class="form-label small">Pickup Location</label>
+                                                    <select class="form-select js-choice" name="pickup" data-search-enabled="true" required>
+                                                        <option value="">Select location</option>
+                                                        <option>New York</option>
+                                                        <option>Chicago</option>
+                                                        <option>Los Angeles</option>
+                                                        <option>Miami</option>
+                                                        <option>Dallas</option>
+                                                    </select>
+                                                </div>
+
+                                                <!-- Auto fill button -->
+                                                <div class="btn-flip-icon z-index-9 mt-2 mt-md-1">
                                                 <button type="button" class="btn btn-dark shadow btn-round mb-0"><i class="fa-solid fa-right-left"></i></button>
                                             </div>
                                         </div>
