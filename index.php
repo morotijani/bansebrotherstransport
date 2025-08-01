@@ -127,228 +127,228 @@
     <!-- =======================
     Excellence END -->
 
-<!-- =======================
-Process START -->
-<section class="pt-0 pt-md-5">
-    <div class="container">
-        <!-- Title -->
-        <div class="row mb-4">
-            <div class="col-12 text-center">
-                <h2 class="fs-1">How We Move Your Goods, Step by Step</h2>
+    <!-- =======================
+    Process START -->
+    <section class="pt-0 pt-md-5">
+        <div class="container">
+            <!-- Title -->
+            <div class="row mb-4">
+                <div class="col-12 text-center">
+                    <h2 class="fs-1">How We Move Your Goods, Step by Step</h2>
+                </div>
             </div>
-        </div>
 
-        <!-- Steps -->
-        <div class="row">
-            <div class="col-md-10 mx-auto">
-                <div class="row g-4">
-                    <!-- Step 1 -->
-                    <div class="col-md-4">
-                        <div class="card border-0 text-center h-100">
-                            <div class="card-body">
-                                <div class="icon-lg bg-primary rounded-circle text-white mb-3">1</div>
-                                <h5>Request a Quote</h5>
-                                <p class="mb-0">Fill out our simple form with your shipping details to receive a competitive quote.</p>
+            <!-- Steps -->
+            <div class="row">
+                <div class="col-md-10 mx-auto">
+                    <div class="row g-4">
+                        <!-- Step 1 -->
+                        <div class="col-md-4">
+                            <div class="card border-0 text-center h-100">
+                                <div class="card-body">
+                                    <div class="icon-lg bg-primary rounded-circle text-white mb-3">1</div>
+                                    <h5>Request a Quote</h5>
+                                    <p class="mb-0">Fill out our simple form with your shipping details to receive a competitive quote.</p>
+                                </div>
                             </div>
                         </div>
-                    </div>
 
-                    <!-- Step 2 -->
-                    <div class="col-md-4">
-                        <div class="card border-0 text-center h-100">
-                            <div class="card-body">
-                                <div class="icon-lg bg-primary rounded-circle text-white mb-3">2</div>
-                                <h5>Schedule Pickup</h5>
-                                <p class="mb-0">Once you approve the quote, we'll arrange for pickup at your preferred time and location.</p>
+                        <!-- Step 2 -->
+                        <div class="col-md-4">
+                            <div class="card border-0 text-center h-100">
+                                <div class="card-body">
+                                    <div class="icon-lg bg-primary rounded-circle text-white mb-3">2</div>
+                                    <h5>Schedule Pickup</h5>
+                                    <p class="mb-0">Once you approve the quote, we'll arrange for pickup at your preferred time and location.</p>
+                                </div>
                             </div>
                         </div>
-                    </div>
 
-                    <!-- Step 3 -->
-                    <div class="col-md-4">
-                        <div class="card border-0 text-center h-100">
-                            <div class="card-body">
-                                <div class="icon-lg bg-primary rounded-circle text-white mb-3">3</div>
-                                <h5>Track & Deliver</h5>
-                                <p class="mb-0">Monitor your shipment in transit and receive confirmation upon successful delivery.</p>
+                        <!-- Step 3 -->
+                        <div class="col-md-4">
+                            <div class="card border-0 text-center h-100">
+                                <div class="card-body">
+                                    <div class="icon-lg bg-primary rounded-circle text-white mb-3">3</div>
+                                    <h5>Track & Deliver</h5>
+                                    <p class="mb-0">Monitor your shipment in transit and receive confirmation upon successful delivery.</p>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-</section>
-<!-- =======================
-Process END -->
+    </section>
+    <!-- =======================
+    Process END -->
 
-<!-- =======================
-Global Reach START -->
-<section class="pt-0 pt-md-5">
-    <div class="container">
-        <div class="row">
-            <!-- Left side -->
-            <div class="col-lg-6 position-relative">
-                <h2 class="fs-1">Global Reach, Unmatched Reliability</h2>
-                <p>Our extensive network allows us to deliver your goods anywhere in the country with precision and care. We pride ourselves on maintaining the highest standards of service quality and customer satisfaction.</p>
+    <!-- =======================
+    Global Reach START -->
+    <section class="pt-0 pt-md-5">
+        <div class="container">
+            <div class="row">
+                <!-- Left side -->
+                <div class="col-lg-6 position-relative">
+                    <h2 class="fs-1">Global Reach, Unmatched Reliability</h2>
+                    <p>Our extensive network allows us to deliver your goods anywhere in the country with precision and care. We pride ourselves on maintaining the highest standards of service quality and customer satisfaction.</p>
+                    
+                    <div class="row mt-4 g-4">
+                        <!-- Stat item -->
+                        <div class="col-sm-6">
+                            <div class="d-flex">
+                                <span class="icon-lg bg-primary bg-opacity-10 text-primary rounded-circle"><i class="bi bi-truck"></i></span>
+                                <div class="ms-3">
+                                    <h5 class="mb-0">500+</h5>
+                                    <p class="mb-0">Vehicles in Fleet</p>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <!-- Stat item -->
+                        <div class="col-sm-6">
+                            <div class="d-flex">
+                                <span class="icon-lg bg-success bg-opacity-10 text-success rounded-circle"><i class="bi bi-geo-alt"></i></span>
+                                <div class="ms-3">
+                                    <h5 class="mb-0">48</h5>
+                                    <p class="mb-0">States Covered</p>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <!-- Stat item -->
+                        <div class="col-sm-6">
+                            <div class="d-flex">
+                                <span class="icon-lg bg-warning bg-opacity-10 text-warning rounded-circle"><i class="bi bi-people"></i></span>
+                                <div class="ms-3">
+                                    <h5 class="mb-0">1000+</h5>
+                                    <p class="mb-0">Happy Clients</p>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <!-- Stat item -->
+                        <div class="col-sm-6">
+                            <div class="d-flex">
+                                <span class="icon-lg bg-danger bg-opacity-10 text-danger rounded-circle"><i class="bi bi-clock-history"></i></span>
+                                <div class="ms-3">
+                                    <h5 class="mb-0">15+</h5>
+                                    <p class="mb-0">Years Experience</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
                 
-                <div class="row mt-4 g-4">
-                    <!-- Stat item -->
-                    <div class="col-sm-6">
-                        <div class="d-flex">
-                            <span class="icon-lg bg-primary bg-opacity-10 text-primary rounded-circle"><i class="bi bi-truck"></i></span>
-                            <div class="ms-3">
-                                <h5 class="mb-0">500+</h5>
-                                <p class="mb-0">Vehicles in Fleet</p>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <!-- Stat item -->
-                    <div class="col-sm-6">
-                        <div class="d-flex">
-                            <span class="icon-lg bg-success bg-opacity-10 text-success rounded-circle"><i class="bi bi-geo-alt"></i></span>
-                            <div class="ms-3">
-                                <h5 class="mb-0">48</h5>
-                                <p class="mb-0">States Covered</p>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <!-- Stat item -->
-                    <div class="col-sm-6">
-                        <div class="d-flex">
-                            <span class="icon-lg bg-warning bg-opacity-10 text-warning rounded-circle"><i class="bi bi-people"></i></span>
-                            <div class="ms-3">
-                                <h5 class="mb-0">1000+</h5>
-                                <p class="mb-0">Happy Clients</p>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <!-- Stat item -->
-                    <div class="col-sm-6">
-                        <div class="d-flex">
-                            <span class="icon-lg bg-danger bg-opacity-10 text-danger rounded-circle"><i class="bi bi-clock-history"></i></span>
-                            <div class="ms-3">
-                                <h5 class="mb-0">15+</h5>
-                                <p class="mb-0">Years Experience</p>
-                            </div>
-                        </div>
-                    </div>
+                <!-- Right side - Map or image -->
+                <div class="col-lg-6 mt-5 mt-lg-0">
+                    <img src="<?= PROOT; ?>assets/media/africa-coverage-map.png" class="rounded-3" alt="USA coverage map">
                 </div>
-            </div>
-            
-            <!-- Right side - Map or image -->
-            <div class="col-lg-6 mt-5 mt-lg-0">
-                <img src="assets/media/africa-coverage-map.png" class="rounded-3" alt="USA coverage map">
             </div>
         </div>
-    </div>
-</section>
-<!-- =======================
-Global Reach END -->
+    </section>
+    <!-- =======================
+    Global Reach END -->
 
-<!-- =======================
-Testimonials START -->
-<section class="pt-0 pt-md-5">
-    <div class="container">
-        <!-- Title -->
-        <div class="row mb-4">
-            <div class="col-12 text-center">
-                <h2 class="fs-1">What Our Customers Say</h2>
+    <!-- =======================
+    Testimonials START -->
+    <section class="pt-0 pt-md-5">
+        <div class="container">
+            <!-- Title -->
+            <div class="row mb-4">
+                <div class="col-12 text-center">
+                    <h2 class="fs-1">What Our Customers Say</h2>
+                </div>
             </div>
-        </div>
 
-        <!-- Testimonials -->
-        <div class="row g-4">
-            <!-- Testimonial item -->
-            <div class="col-md-4">
-                <div class="card h-100">
-                    <div class="card-body p-4">
-                        <div class="d-flex mb-3">
-                            <!-- Stars -->
-                            <ul class="list-inline mb-0">
-                                <li class="list-inline-item me-0"><i class="fas fa-star text-warning"></i></li>
-                                <li class="list-inline-item me-0"><i class="fas fa-star text-warning"></i></li>
-                                <li class="list-inline-item me-0"><i class="fas fa-star text-warning"></i></li>
-                                <li class="list-inline-item me-0"><i class="fas fa-star text-warning"></i></li>
-                                <li class="list-inline-item me-0"><i class="fas fa-star text-warning"></i></li>
-                            </ul>
-                        </div>
-                        <p class="mb-3">"Their temperature-controlled transport service saved our perishable goods during a cross-country delivery. Excellent service and communication throughout."</p>
-                        <div class="d-flex align-items-center">
-                            <div class="avatar avatar-sm">
-                                <img class="avatar-img rounded-circle" src="assets/media/team/01.jpg" alt="Customer">
+            <!-- Testimonials -->
+            <div class="row g-4">
+                <!-- Testimonial item -->
+                <div class="col-md-4">
+                    <div class="card h-100">
+                        <div class="card-body p-4">
+                            <div class="d-flex mb-3">
+                                <!-- Stars -->
+                                <ul class="list-inline mb-0">
+                                    <li class="list-inline-item me-0"><i class="fas fa-star text-warning"></i></li>
+                                    <li class="list-inline-item me-0"><i class="fas fa-star text-warning"></i></li>
+                                    <li class="list-inline-item me-0"><i class="fas fa-star text-warning"></i></li>
+                                    <li class="list-inline-item me-0"><i class="fas fa-star text-warning"></i></li>
+                                    <li class="list-inline-item me-0"><i class="fas fa-star text-warning"></i></li>
+                                </ul>
                             </div>
-                            <div class="ms-2">
-                                <h6 class="mb-0">Carolyn Ortiz</h6>
-                                <p class="mb-0 small">Food Distribution Inc.</p>
+                            <p class="mb-3">"Their temperature-controlled transport service saved our perishable goods during a cross-country delivery. Excellent service and communication throughout."</p>
+                            <div class="d-flex align-items-center">
+                                <div class="avatar avatar-sm">
+                                    <img class="avatar-img rounded-circle" src="<?= PROOT; ?>assets/media/profile.png" alt="Customer">
+                                </div>
+                                <div class="ms-2">
+                                    <h6 class="mb-0">Carolyn Ortiz</h6>
+                                    <p class="mb-0 small">Food Distribution Inc.</p>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
-            </div>
 
-            <!-- Testimonial item -->
-            <div class="col-md-4">
-                <div class="card h-100">
-                    <div class="card-body p-4">
-                        <div class="d-flex mb-3">
-                            <!-- Stars -->
-                            <ul class="list-inline mb-0">
-                                <li class="list-inline-item me-0"><i class="fas fa-star text-warning"></i></li>
-                                <li class="list-inline-item me-0"><i class="fas fa-star text-warning"></i></li>
-                                <li class="list-inline-item me-0"><i class="fas fa-star text-warning"></i></li>
-                                <li class="list-inline-item me-0"><i class="fas fa-star text-warning"></i></li>
-                                <li class="list-inline-item me-0"><i class="fas fa-star text-warning"></i></li>
-                            </ul>
-                        </div>
-                        <p class="mb-3">"We've been using their LTL services for our retail business for over 3 years. Always on time and professional. Highly recommended!"</p>
-                        <div class="d-flex align-items-center">
-                            <div class="avatar avatar-sm">
-                                <img class="avatar-img rounded-circle" src="assets/media/team/02.jpg" alt="Customer">
+                <!-- Testimonial item -->
+                <div class="col-md-4">
+                    <div class="card h-100">
+                        <div class="card-body p-4">
+                            <div class="d-flex mb-3">
+                                <!-- Stars -->
+                                <ul class="list-inline mb-0">
+                                    <li class="list-inline-item me-0"><i class="fas fa-star text-warning"></i></li>
+                                    <li class="list-inline-item me-0"><i class="fas fa-star text-warning"></i></li>
+                                    <li class="list-inline-item me-0"><i class="fas fa-star text-warning"></i></li>
+                                    <li class="list-inline-item me-0"><i class="fas fa-star text-warning"></i></li>
+                                    <li class="list-inline-item me-0"><i class="fas fa-star text-warning"></i></li>
+                                </ul>
                             </div>
-                            <div class="ms-2">
-                                <h6 class="mb-0">James Wilson</h6>
-                                <p class="mb-0 small">Retail Solutions Co.</p>
+                            <p class="mb-3">"We've been using their LTL services for our retail business for over 3 years. Always on time and professional. Highly recommended!"</p>
+                            <div class="d-flex align-items-center">
+                                <div class="avatar avatar-sm">
+                                    <img class="avatar-img rounded-circle" src="<?= PROOT; ?>assets/media/profile.png" alt="Customer">
+                                </div>
+                                <div class="ms-2">
+                                    <h6 class="mb-0">James Wilson</h6>
+                                    <p class="mb-0 small">Retail Solutions Co.</p>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
-            </div>
 
-            <!-- Testimonial item -->
-            <div class="col-md-4">
-                <div class="card h-100">
-                    <div class="card-body p-4">
-                        <div class="d-flex mb-3">
-                            <!-- Stars -->
-                            <ul class="list-inline mb-0">
-                                <li class="list-inline-item me-0"><i class="fas fa-star text-warning"></i></li>
-                                <li class="list-inline-item me-0"><i class="fas fa-star text-warning"></i></li>
-                                <li class="list-inline-item me-0"><i class="fas fa-star text-warning"></i></li>
-                                <li class="list-inline-item me-0"><i class="fas fa-star text-warning"></i></li>
-                                <li class="list-inline-item me-0"><i class="fas fa-star-half-alt text-warning"></i></li>
-                            </ul>
-                        </div>
-                        <p class="mb-3">"Their full truckload service provided the security and efficiency we needed for our high-value manufacturing equipment. Great job!"</p>
-                        <div class="d-flex align-items-center">
-                            <div class="avatar avatar-sm">
-                                <img class="avatar-img rounded-circle" src="assets/media/team/03.jpg" alt="Customer">
+                <!-- Testimonial item -->
+                <div class="col-md-4">
+                    <div class="card h-100">
+                        <div class="card-body p-4">
+                            <div class="d-flex mb-3">
+                                <!-- Stars -->
+                                <ul class="list-inline mb-0">
+                                    <li class="list-inline-item me-0"><i class="fas fa-star text-warning"></i></li>
+                                    <li class="list-inline-item me-0"><i class="fas fa-star text-warning"></i></li>
+                                    <li class="list-inline-item me-0"><i class="fas fa-star text-warning"></i></li>
+                                    <li class="list-inline-item me-0"><i class="fas fa-star text-warning"></i></li>
+                                    <li class="list-inline-item me-0"><i class="fas fa-star-half-alt text-warning"></i></li>
+                                </ul>
                             </div>
-                            <div class="ms-2">
-                                <h6 class="mb-0">Dennis Barrett</h6>
-                                <p class="mb-0 small">Manufacturing Tech Ltd.</p>
+                            <p class="mb-3">"Their full truckload service provided the security and efficiency we needed for our high-value manufacturing equipment. Great job!"</p>
+                            <div class="d-flex align-items-center">
+                                <div class="avatar avatar-sm">
+                                    <img class="avatar-img rounded-circle" src="<?= PROOT; ?>assets/media/profile.png" alt="Customer">
+                                </div>
+                                <div class="ms-2">
+                                    <h6 class="mb-0">Dennis Barrett</h6>
+                                    <p class="mb-0 small">Manufacturing Tech Ltd.</p>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-</section>
-<!-- =======================
+    </section>
+    <!-- =======================
 Testimonials END -->
 
 <?php include ("system/inc/footer.php"); ?>
