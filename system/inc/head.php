@@ -73,8 +73,8 @@
 
 	<!-- Google Font -->
 	<link rel="preconnect" href="https://fonts.googleapis.com">
-	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Poppins:wght@400;500;700&display=swap">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
 
 	<!-- Plugins CSS -->
 	<link rel="stylesheet" type="text/css" href="<?= PROOT; ?>assets/css/all.min.css">
@@ -84,7 +84,13 @@
 
 	<!-- Theme CSS -->
 	<link rel="stylesheet" type="text/css" href="<?= PROOT; ?>assets/css/style.css">
-
+	<style>
+		*, body {
+			font-family: "Raleway", "Roboto", sans-serif;
+			font-optical-sizing: auto;
+			font-style: normal;
+		}
+	</style>
 </head>
 <body>
 	
