@@ -46,86 +46,86 @@
                             <a href="services.php?type=ftl" class="btn btn-sm btn-primary-soft mb-0">Learn More</a>
                         </div>
                     </div>
-            </div>
+                </div>
 
-            <!-- Service item -->
-            <div class="col-md-4">
-                <div class="card service-card h-100">
-                    <div class="card-body p-4">
-                        <h4>Less Than Truckload (LTL)</h4>
-                        <p>Cost-effective solutions for smaller shipments, sharing truck space with other freight to optimize costs.</p>
-                        <a href="services.php?type=ltl" class="btn btn-sm btn-primary-soft mb-0">Learn More</a>
+                <!-- Service item -->
+                <div class="col-md-4">
+                    <div class="card service-card h-100">
+                        <div class="card-body p-4">
+                            <h4>Less Than Truckload (LTL)</h4>
+                            <p>Cost-effective solutions for smaller shipments, sharing truck space with other freight to optimize costs.</p>
+                            <a href="services.php?type=ltl" class="btn btn-sm btn-primary-soft mb-0">Learn More</a>
+                        </div>
                     </div>
                 </div>
-            </div>
 
-            <!-- Service item -->
-            <div class="col-md-4">
-                <div class="card service-card h-100">
-                    <div class="card-body p-4">
-                        <h4>Temperature-Controlled</h4>
-                        <p>Specialized refrigerated transport for temperature-sensitive goods, maintaining product integrity.</p>
-                        <a href="services.php?type=temperature" class="btn btn-sm btn-primary-soft mb-0">Learn More</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- =======================
-Services END -->
-
-<!-- =======================
-Excellence START -->
-<section class="pt-0 pt-md-5">
-    <div class="container">
-        <!-- Title -->
-        <div class="row mb-4">
-            <div class="col-12">
-                <h2 class="fs-1">Delivering Excellence in Every Mile</h2>
-                <p class="mb-0">Fast, reliable, and cost-effective logistics solutions tailored to your business needs. Our experienced team ensures your cargo arrives safely and on time.</p>
-            </div>
-        </div>
-
-        <!-- Features -->
-        <div class="row g-4">
-            <!-- Feature item -->
-            <div class="col-md-4">
-                <div class="card bg-light h-100">
-                    <div class="card-body p-4">
-                        <div class="icon-lg bg-primary bg-opacity-10 text-primary rounded-circle mb-3"><i class="bi bi-truck"></i></div>
-                        <h5>Modern Fleet</h5>
-                        <p class="mb-0">Our well-maintained trucks and trailers ensure reliable and efficient transport of your goods.</p>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Feature item -->
-            <div class="col-md-4">
-                <div class="card bg-light h-100">
-                    <div class="card-body p-4">
-                        <div class="icon-lg bg-success bg-opacity-10 text-success rounded-circle mb-3"><i class="bi bi-geo-alt"></i></div>
-                        <h5>Real-Time Tracking</h5>
-                        <p class="mb-0">Monitor your shipments in real-time with our advanced tracking technology.</p>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Feature item -->
-            <div class="col-md-4">
-                <div class="card bg-light h-100">
-                    <div class="card-body p-4">
-                        <div class="icon-lg bg-warning bg-opacity-10 text-warning rounded-circle mb-3"><i class="bi bi-shield-check"></i></div>
-                        <h5>Cargo Safety</h5>
-                        <p class="mb-0">Your goods are secured with proper equipment and handling procedures throughout transit.</p>
+                <!-- Service item -->
+                <div class="col-md-4">
+                    <div class="card service-card h-100">
+                        <div class="card-body p-4">
+                            <h4>Temperature-Controlled</h4>
+                            <p>Specialized refrigerated transport for temperature-sensitive goods, maintaining product integrity.</p>
+                            <a href="services.php?type=temperature" class="btn btn-sm btn-primary-soft mb-0">Learn More</a>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-</section>
-<!-- =======================
-Excellence END -->
+    </section>
+    <!-- =======================
+    Services END -->
+
+    <!-- =======================
+    Excellence START -->
+    <section class="pt-0 pt-md-5">
+        <div class="container">
+            <!-- Title -->
+            <div class="row mb-4">
+                <div class="col-12">
+                    <h2 class="fs-1">Delivering Excellence in Every Mile</h2>
+                    <p class="mb-0">Fast, reliable, and cost-effective logistics solutions tailored to your business needs. Our experienced team ensures your cargo arrives safely and on time.</p>
+                </div>
+            </div>
+
+            <!-- Features -->
+            <div class="row g-4">
+                <!-- Feature item -->
+                <div class="col-md-4">
+                    <div class="card bg-light h-100">
+                        <div class="card-body p-4">
+                            <div class="icon-lg bg-primary bg-opacity-10 text-primary rounded-circle mb-3"><i class="bi bi-truck"></i></div>
+                            <h5>Modern Fleet</h5>
+                            <p class="mb-0">Our well-maintained trucks and trailers ensure reliable and efficient transport of your goods.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Feature item -->
+                <div class="col-md-4">
+                    <div class="card bg-light h-100">
+                        <div class="card-body p-4">
+                            <div class="icon-lg bg-success bg-opacity-10 text-success rounded-circle mb-3"><i class="bi bi-geo-alt"></i></div>
+                            <h5>Real-Time Tracking</h5>
+                            <p class="mb-0">Monitor your shipments in real-time with our advanced tracking technology.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Feature item -->
+                <div class="col-md-4">
+                    <div class="card bg-light h-100">
+                        <div class="card-body p-4">
+                            <div class="icon-lg bg-warning bg-opacity-10 text-warning rounded-circle mb-3"><i class="bi bi-shield-check"></i></div>
+                            <h5>Cargo Safety</h5>
+                            <p class="mb-0">Your goods are secured with proper equipment and handling procedures throughout transit.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- =======================
+    Excellence END -->
 
 <!-- =======================
 Process START -->
