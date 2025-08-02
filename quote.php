@@ -8,20 +8,20 @@
     $service_type = isset($_GET['service']) ? $_GET['service'] : '';
 ?>
 
-<!-- =======================
-Header START -->
-<section class="py-5 py-lg-7 bg-light">
-    <div class="container">
-        <div class="row">
-            <div class="col-12 text-center">
-                <h1 class="fs-2">Request a Freight Quote</h1>
-                <p class="mb-0">Get a customized quote for your shipping needs</p>
+    <!-- =======================
+    Header START -->
+    <section class="py-5 py-lg-7 bg-light">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 text-center">
+                    <h1 class="fs-2">Request a Freight Quote</h1>
+                    <p class="mb-0">Get a customized quote for your shipping needs</p>
+                </div>
             </div>
         </div>
-    </div>
-</section>
-<!-- =======================
-Header END -->
+    </section>
+    <!-- =======================
+    Header END -->
 
 <!-- =======================
 Quote Form START -->

@@ -2,7 +2,7 @@
     <!-- Header START -->
     <header class="header-transparent">
         <!-- Logo Nav START -->
-        <nav class="navbar navbar-dark navbar-expand-xl">
+        <nav class="navbar navbar-expand-xl">
             <div class="container-fluid px-md-5">
                 <!-- Logo START -->
                 <a class="navbar-brand" href="<?= PROOT; ?>index">
