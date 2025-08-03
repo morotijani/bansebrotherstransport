@@ -5,68 +5,68 @@
     include ("system/inc/nav.php");
 ?>
 
-<!-- =======================
-Main Banner START -->
-<section class="pt-0 pt-lg-5">
-    <div class="container">
-        <div class="row">
-            <div class="col-12 text-center">
-                <h1 class="fs-2 mb-2">About Banse Brothers Transport</h1>
-                <p class="mb-0">Fast & Sustainable Road Freight Solutions</p>
+    <!-- =======================
+    Main Banner START -->
+    <section class="pt-0 pt-lg-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 text-center mt-5">
+                    <h1 class="fs-2 mb-2">About Banse Brothers Transport</h1>
+                    <p class="mb-0">Fast & Sustainable Road Freight Solutions</p>
+                </div>
             </div>
         </div>
-    </div>
-</section>
-<!-- =======================
-Main Banner END -->
+    </section>
+    <!-- =======================
+    Main Banner END -->
 
-<!-- =======================
-About Section START -->
-<section class="pt-0 pt-lg-5">
-    <div class="container">
-        <div class="row g-4 g-lg-5 align-items-center">
-            <!-- Image -->
-            <div class="col-lg-6">
-                <img src="assets/media/transport-truck.jpg" class="rounded-3" alt="">
-            </div>
-            
-            <!-- Content -->
-            <div class="col-lg-6">
-                <h2 class="mb-4">Delivering Excellence in Every Mile</h2>
-                <p class="mb-3">Banse Brothers Transport is a leading provider of comprehensive trucking and freight solutions. With decades of experience in the transportation industry, we've built a reputation for reliability, efficiency, and exceptional service.</p>
-                <p class="mb-3">Our mission is to provide fast, sustainable, and cost-effective transport solutions that meet the evolving needs of businesses across the country. We combine cutting-edge technology with experienced professionals to ensure your cargo reaches its destination safely and on time.</p>
-                <p class="mb-4">What sets us apart is our commitment to sustainability, our dedicated team of professionals, and our state-of-the-art fleet that can handle any type of cargo.</p>
+    <!-- =======================
+    About Section START -->
+    <section class="pt-0 pt-lg-5">
+        <div class="container">
+            <div class="row g-4 g-lg-5 align-items-center">
+                <!-- Image -->
+                <div class="col-lg-6">
+                    <img src="<?= PROOT; ?>assets/media/cover-5.jpg" class="rounded-3" alt="">
+                </div>
                 
-                <!-- Features -->
-                <div class="row g-4">
-                    <!-- Feature item -->
-                    <div class="col-sm-6">
-                        <div class="d-flex">
-                            <div class="icon-lg bg-primary bg-opacity-10 text-primary rounded-circle flex-shrink-0"><i class="bi bi-truck fs-5"></i></div>
-                            <div class="ms-3">
-                                <h5>Modern Fleet</h5>
-                                <p class="mb-0">Our vehicles are regularly maintained and equipped with the latest technology.</p>
+                <!-- Content -->
+                <div class="col-lg-6">
+                    <h2 class="mb-4">Delivering Excellence in Every Mile</h2>
+                    <p class="mb-3">Banse Brothers Transport is a leading provider of comprehensive trucking and freight solutions. With decades of experience in the transportation industry, we've built a reputation for reliability, efficiency, and exceptional service.</p>
+                    <p class="mb-3">Our mission is to provide fast, sustainable, and cost-effective transport solutions that meet the evolving needs of businesses across the country. We combine cutting-edge technology with experienced professionals to ensure your cargo reaches its destination safely and on time.</p>
+                    <p class="mb-4">What sets us apart is our commitment to sustainability, our dedicated team of professionals, and our state-of-the-art fleet that can handle any type of cargo.</p>
+                    
+                    <!-- Features -->
+                    <div class="row g-4">
+                        <!-- Feature item -->
+                        <div class="col-sm-6">
+                            <div class="d-flex">
+                                <div class="icon-lg bg-primary bg-opacity-10 text-primary rounded-circle flex-shrink-0"><i class="bi bi-truck fs-5"></i></div>
+                                <div class="ms-3">
+                                    <h5>Modern Fleet</h5>
+                                    <p class="mb-0">Our vehicles are regularly maintained and equipped with the latest technology.</p>
+                                </div>
                             </div>
                         </div>
-                    </div>
-                    
-                    <!-- Feature item -->
-                    <div class="col-sm-6">
-                        <div class="d-flex">
-                            <div class="icon-lg bg-primary bg-opacity-10 text-primary rounded-circle flex-shrink-0"><i class="bi bi-people fs-5"></i></div>
-                            <div class="ms-3">
-                                <h5>Expert Team</h5>
-                                <p class="mb-0">Our drivers and logistics specialists are highly trained professionals.</p>
+                        
+                        <!-- Feature item -->
+                        <div class="col-sm-6">
+                            <div class="d-flex">
+                                <div class="icon-lg bg-primary bg-opacity-10 text-primary rounded-circle flex-shrink-0"><i class="bi bi-people fs-5"></i></div>
+                                <div class="ms-3">
+                                    <h5>Expert Team</h5>
+                                    <p class="mb-0">Our drivers and logistics specialists are highly trained professionals.</p>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-</section>
-<!-- =======================
-About Section END -->
+    </section>
+    <!-- =======================
+    About Section END -->
 
 <!-- =======================
 Services Section START -->
