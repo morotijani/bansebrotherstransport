@@ -8,20 +8,20 @@
     $service_type = isset($_GET['type']) ? $_GET['type'] : '';
 ?>
 
-<!-- =======================
-Header START -->
-<section class="py-5 py-lg-7 bg-light">
-    <div class="container">
-        <div class="row">
-            <div class="col-12 text-center">
-                <h1 class="fs-2">Our Transport Services</h1>
-                <p class="mb-0">Comprehensive freight solutions tailored to your business needs</p>
+    <!-- =======================
+    Header START -->
+    <section class="py-5 py-lg-7 bg-light">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 text-center mt-5">
+                    <h1 class="fs-2">Our Transport Services</h1>
+                    <p class="mb-0">Comprehensive freight solutions tailored to your business needs</p>
+                </div>
             </div>
         </div>
-    </div>
-</section>
-<!-- =======================
-Header END -->
+    </section>
+    <!-- =======================
+    Header END -->
 
 <!-- =======================
 Services START -->
