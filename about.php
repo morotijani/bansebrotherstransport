@@ -27,7 +27,7 @@
             <div class="row g-4 g-lg-5 align-items-center">
                 <!-- Image -->
                 <div class="col-lg-6">
-                    <img src="<?= PROOT; ?>assets/media/cover-5.jpg" class="rounded-3" alt="">
+                    <img src="<?= PROOT; ?>assets/media/trucks/truck-1.jpg" class="rounded-3" alt="">
                 </div>
                 
                 <!-- Content -->
