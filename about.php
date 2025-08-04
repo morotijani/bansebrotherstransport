@@ -68,115 +68,115 @@
     <!-- =======================
     About Section END -->
 
-<!-- =======================
-Services Section START -->
-<section class="pt-0 pt-lg-5">
-    <div class="container">
-        <!-- Title -->
-        <div class="row mb-4">
-            <div class="col-12 text-center">
-                <h2>Our Transport Services</h2>
-                <p class="mb-0">Comprehensive Trucking & Freight Solutions</p>
-            </div>
-        </div>
-
-        <div class="row g-4">
-            <!-- Service item -->
-            <div class="col-md-6 col-lg-4">
-                <div class="card card-body shadow p-4 h-100">
-                    <!-- Icon -->
-                    <div class="icon-lg bg-primary bg-opacity-10 text-primary rounded-circle mb-4"><i class="bi bi-box-seam fs-5"></i></div>
-                    <h5>Full Truckload (FTL)</h5>
-                    <p class="mb-0">Dedicated transport solutions for large shipments that require an entire truck, ensuring faster delivery with no stops.</p>
+    <!-- =======================
+    Services Section START -->
+    <section class="pt-0 pt-lg-5">
+        <div class="container">
+            <!-- Title -->
+            <div class="row mb-4">
+                <div class="col-12 text-center">
+                    <h2>Our Transport Services</h2>
+                    <p class="mb-0">Comprehensive Trucking & Freight Solutions</p>
                 </div>
             </div>
 
-            <!-- Service item -->
-            <div class="col-md-6 col-lg-4">
-                <div class="card card-body shadow p-4 h-100">
-                    <!-- Icon -->
-                    <div class="icon-lg bg-primary bg-opacity-10 text-primary rounded-circle mb-4"><i class="bi bi-boxes fs-5"></i></div>
-                    <h5>Less Than Truckload (LTL)</h5>
-                    <p class="mb-0">Cost-effective shipping for smaller freight that doesn't require an entire trailer, sharing space with other shipments.</p>
-                </div>
-            </div>
-
-            <!-- Service item -->
-            <div class="col-md-6 col-lg-4">
-                <div class="card card-body shadow p-4 h-100">
-                    <!-- Icon -->
-                    <div class="icon-lg bg-primary bg-opacity-10 text-primary rounded-circle mb-4"><i class="bi bi-thermometer-snow fs-5"></i></div>
-                    <h5>Temperature-Controlled</h5>
-                    <p class="mb-0">Specialized transport for temperature-sensitive goods, maintaining precise climate conditions throughout transit.</p>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- =======================
-Services Section END -->
-
-<!-- =======================
-Team Section START -->
-<section class="pt-0 pt-lg-5">
-    <div class="container">
-        <!-- Title -->
-        <div class="row mb-4">
-            <div class="col-12 text-center">
-                <h2>Meet Our Team</h2>
-                <p class="mb-0">The Professionals Behind Our Success</p>
-            </div>
-        </div>
-
-        <div class="row g-4">
-            <!-- Team member -->
-            <div class="col-sm-6 col-lg-3">
-                <div class="card card-body shadow p-4 text-center">
-                    <div class="avatar avatar-xxl mx-auto mb-3">
-                        <img class="avatar-img rounded-circle" src="assets/media/team/team-1.jpg" alt="">
+            <div class="row g-4">
+                <!-- Service item -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="card card-body shadow p-4 h-100">
+                        <!-- Icon -->
+                        <div class="icon-lg bg-primary bg-opacity-10 text-primary rounded-circle mb-4"><i class="bi bi-box-seam fs-5"></i></div>
+                        <h5>Full Truckload (FTL)</h5>
+                        <p class="mb-0">Dedicated transport solutions for large shipments that require an entire truck, ensuring faster delivery with no stops.</p>
                     </div>
-                    <h5 class="mb-1">Samuel Banse</h5>
-                    <p class="mb-0 small">CEO & Founder</p>
                 </div>
-            </div>
 
-            <!-- Team member -->
-            <div class="col-sm-6 col-lg-3">
-                <div class="card card-body shadow p-4 text-center">
-                    <div class="avatar avatar-xxl mx-auto mb-3">
-                        <img class="avatar-img rounded-circle" src="assets/media/team/team-2.jpg" alt="">
+                <!-- Service item -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="card card-body shadow p-4 h-100">
+                        <!-- Icon -->
+                        <div class="icon-lg bg-primary bg-opacity-10 text-primary rounded-circle mb-4"><i class="bi bi-boxes fs-5"></i></div>
+                        <h5>Less Than Truckload (LTL)</h5>
+                        <p class="mb-0">Cost-effective shipping for smaller freight that doesn't require an entire trailer, sharing space with other shipments.</p>
                     </div>
-                    <h5 class="mb-1">Michael Banse</h5>
-                    <p class="mb-0 small">Operations Director</p>
                 </div>
-            </div>
 
-            <!-- Team member -->
-            <div class="col-sm-6 col-lg-3">
-                <div class="card card-body shadow p-4 text-center">
-                    <div class="avatar avatar-xxl mx-auto mb-3">
-                        <img class="avatar-img rounded-circle" src="assets/media/team/team-3.jpg" alt="">
+                <!-- Service item -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="card card-body shadow p-4 h-100">
+                        <!-- Icon -->
+                        <div class="icon-lg bg-primary bg-opacity-10 text-primary rounded-circle mb-4"><i class="bi bi-thermometer-snow fs-5"></i></div>
+                        <h5>Temperature-Controlled</h5>
+                        <p class="mb-0">Specialized transport for temperature-sensitive goods, maintaining precise climate conditions throughout transit.</p>
                     </div>
-                    <h5 class="mb-1">Sarah Johnson</h5>
-                    <p class="mb-0 small">Logistics Manager</p>
-                </div>
-            </div>
-
-            <!-- Team member -->
-            <div class="col-sm-6 col-lg-3">
-                <div class="card card-body shadow p-4 text-center">
-                    <div class="avatar avatar-xxl mx-auto mb-3">
-                        <img class="avatar-img rounded-circle" src="assets/media/team/team-4.jpg" alt="">
-                    </div>
-                    <h5 class="mb-1">David Chen</h5>
-                    <p class="mb-0 small">Fleet Manager</p>
                 </div>
             </div>
         </div>
-    </div>
-</section>
-<!-- =======================
-Team Section END -->
+    </section>
+    <!-- =======================
+    Services Section END -->
+
+    <!-- =======================
+    Team Section START -->
+    <section class="pt-0 pt-lg-5">
+        <div class="container">
+            <!-- Title -->
+            <div class="row mb-4">
+                <div class="col-12 text-center">
+                    <h2>Meet Our Team</h2>
+                    <p class="mb-0">The Professionals Behind Our Success</p>
+                </div>
+            </div>
+
+            <div class="row g-4">
+                <!-- Team member -->
+                <div class="col-sm-6 col-lg-3">
+                    <div class="card card-body shadow p-4 text-center">
+                        <div class="avatar avatar-xxl mx-auto mb-3">
+                            <img class="avatar-img rounded-circle" src="assets/media/team/team-1.jpg" alt="">
+                        </div>
+                        <h5 class="mb-1">Alhaji Moro Banse</h5>
+                        <p class="mb-0 small">CEO & Founder</p>
+                    </div>
+                </div>
+
+                <!-- Team member -->
+                <div class="col-sm-6 col-lg-3">
+                    <div class="card card-body shadow p-4 text-center">
+                        <div class="avatar avatar-xxl mx-auto mb-3">
+                            <img class="avatar-img rounded-circle" src="assets/media/team/team-2.jpg" alt="">
+                        </div>
+                        <h5 class="mb-1">Alhaji Inusah Banse</h5>
+                        <p class="mb-0 small">Operations Director</p>
+                    </div>
+                </div>
+
+                <!-- Team member -->
+                <div class="col-sm-6 col-lg-3">
+                    <div class="card card-body shadow p-4 text-center">
+                        <div class="avatar avatar-xxl mx-auto mb-3">
+                            <img class="avatar-img rounded-circle" src="assets/media/team/team-3.jpg" alt="">
+                        </div>
+                        <h5 class="mb-1">Aremeyaw Banse</h5>
+                        <p class="mb-0 small">Logistics Manager</p>
+                    </div>
+                </div>
+
+                <!-- Team member -->
+                <div class="col-sm-6 col-lg-3">
+                    <div class="card card-body shadow p-4 text-center">
+                        <div class="avatar avatar-xxl mx-auto mb-3">
+                            <img class="avatar-img rounded-circle" src="assets/media/team/team-4.jpg" alt="">
+                        </div>
+                        <h5 class="mb-1">Alhaji Hudu Banse</h5>
+                        <p class="mb-0 small">Fleet Manager</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- =======================
+    Team Section END -->
 
 <!-- =======================
 Testimonials START -->
