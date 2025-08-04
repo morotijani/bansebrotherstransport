@@ -133,7 +133,7 @@
                 <div class="col-sm-6 col-lg-3">
                     <div class="card card-body shadow p-4 text-center">
                         <div class="avatar avatar-xxl mx-auto mb-3">
-                            <img class="avatar-img rounded-circle" src="assets/media/team/team-1.jpg" alt="">
+                            <img class="avatar-img rounded-circle" src="<?= PROOT; ?>assets/media/team/alhaji-moro-banse.jpg" alt="">
                         </div>
                         <h5 class="mb-1">Alhaji Moro Banse</h5>
                         <p class="mb-0 small">CEO & Founder</p>
@@ -144,7 +144,7 @@
                 <div class="col-sm-6 col-lg-3">
                     <div class="card card-body shadow p-4 text-center">
                         <div class="avatar avatar-xxl mx-auto mb-3">
-                            <img class="avatar-img rounded-circle" src="assets/media/team/team-2.jpg" alt="">
+                            <img class="avatar-img rounded-circle" src="<?= PROOT; ?>assets/media/team/alhaji-inusah-banse.jpg" alt="">
                         </div>
                         <h5 class="mb-1">Alhaji Inusah Banse</h5>
                         <p class="mb-0 small">Operations Director</p>
