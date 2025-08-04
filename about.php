@@ -157,7 +157,7 @@
                         <div class="avatar avatar-xxl mx-auto mb-3">
                             <img class="avatar-img rounded-circle" src="assets/media/team/team-3.jpg" alt="">
                         </div>
-                        <h5 class="mb-1">Aremeyaw Banse</h5>
+                        <h5 class="mb-1">Arimiyao Banse</h5>
                         <p class="mb-0 small">Logistics Manager</p>
                     </div>
                 </div>
