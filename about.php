@@ -190,12 +190,12 @@ CTA START -->
                         <div class="col-md-6 col-lg-8">
                             <h3>Ready to experience our premium transport services?</h3>
                             <p class="mb-3">Contact us today to discuss your freight and logistics needs. Our team is ready to provide you with a customized solution.</p>
-                            <a href="contact.php" class="btn btn-primary mb-0">Contact Us</a>
+                            <a href="<?= PROOT; ?>contact" class="btn btn-primary mb-0">Contact Us</a>
                         </div>
                         
                         <!-- Image -->
                         <div class="col-md-6 col-lg-4 text-end">
-                            <img src="assets/media/element/contact-call.svg" class="h-300px" alt="">
+                            <img src="<?= PROOT; ?>assets/media/contact-call.png" class="h-100px" alt="">
                         </div>
                     </div>
                 </div>
