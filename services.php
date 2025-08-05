@@ -210,12 +210,12 @@
                             <div class="col-md-6">
                                 <h3 class="mb-3">Ready to Ship with Us?</h3>
                                 <p class="mb-3">Get in touch with our team to discuss your transportation needs and receive a customized quote.</p>
-                                <a href="quote.php" class="btn btn-primary mb-0">Request a Quote</a>
+                                <a href="quote" class="btn btn-primary mb-0">Request a Quote</a>
                             </div>
                             
                             <!-- Image -->
                             <div class="col-md-6 text-center">
-                                <img src="assets/media/truck-illustration.png" class="h-300px" alt="">
+                                <img src="assets/media/truck-illustration.png" class="h-100px" alt="">
                             </div>
                         </div>
                     </div>
