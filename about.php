@@ -155,7 +155,7 @@
                 <div class="col-sm-6 col-lg-3">
                     <div class="card card-body shadow p-4 text-center">
                         <div class="avatar avatar-xxl mx-auto mb-3">
-                            <img class="avatar-img rounded-circle" src="assets/media/team/team-3.jpg" alt="">
+                            <img class="avatar-img rounded-circle" src="<?= PROOT; ?>assets/media/team/arimiyao-banse.jpg" alt="">
                         </div>
                         <h5 class="mb-1">Arimiyao Banse</h5>
                         <p class="mb-0 small">Logistics Manager</p>
@@ -166,7 +166,7 @@
                 <div class="col-sm-6 col-lg-3">
                     <div class="card card-body shadow p-4 text-center">
                         <div class="avatar avatar-xxl mx-auto mb-3">
-                            <img class="avatar-img rounded-circle" src="assets/media/team/team-4.jpg" alt="">
+                            <img class="avatar-img rounded-circle" src="<?= PROOT; ?>assets/media/team/alhaji-hudu-banse.jpg" alt="">
                         </div>
                         <h5 class="mb-1">Alhaji Hudu Banse</h5>
                         <p class="mb-0 small">Fleet Manager</p>
@@ -177,87 +177,6 @@
     </section>
     <!-- =======================
     Team Section END -->
-
-<!-- =======================
-Testimonials START -->
-<section class="pt-0 pt-lg-5">
-    <div class="container">
-        <!-- Title -->
-        <div class="row mb-4">
-            <div class="col-12 text-center">
-                <h2>What Our Customers Say</h2>
-                <p class="mb-0">Testimonials from Satisfied Clients</p>
-            </div>
-        </div>
-
-        <div class="row">
-            <div class="col-12">
-                <div class="tiny-slider arrow-round arrow-creative arrow-blur arrow-hover">
-                    <div class="tiny-slider-inner" data-autoplay="true" data-arrow="true" data-dots="false" data-items="3" data-items-lg="2" data-items-md="1">
-                        
-                        <!-- Testimonial item -->
-                        <div class="card card-body shadow p-4 h-100 mb-4">
-                            <div class="d-flex mb-3">
-                                <div class="avatar avatar-lg me-3">
-                                    <img class="avatar-img rounded-circle" src="assets/media/avatar/01.jpg" alt="">
-                                </div>
-                                <div>
-                                    <h6 class="mb-0">John Smith</h6>
-                                    <p class="mb-0 small">Manufacturing Company</p>
-                                </div>
-                            </div>
-                            <p class="mb-0">"Banse Brothers Transport has been our logistics partner for over 5 years. Their reliability and professionalism have been crucial to our supply chain efficiency."</p>
-                        </div>
-                        
-                        <!-- Testimonial item -->
-                        <div class="card card-body shadow p-4 h-100 mb-4">
-                            <div class="d-flex mb-3">
-                                <div class="avatar avatar-lg me-3">
-                                    <img class="avatar-img rounded-circle" src="assets/media/avatar/02.jpg" alt="">
-                                </div>
-                                <div>
-                                    <h6 class="mb-0">Emily Rodriguez</h6>
-                                    <p class="mb-0 small">Retail Distribution</p>
-                                </div>
-                            </div>
-                            <p class="mb-0">"The temperature-controlled transport service has been a game-changer for our perishable goods. Consistent quality and on-time delivery every time."</p>
-                        </div>
-                        
-                        <!-- Testimonial item -->
-                        <div class="card card-body shadow p-4 h-100 mb-4">
-                            <div class="d-flex mb-3">
-                                <div class="avatar avatar-lg me-3">
-                                    <img class="avatar-img rounded-circle" src="assets/media/avatar/03.jpg" alt="">
-                                </div>
-                                <div>
-                                    <h6 class="mb-0">Robert Johnson</h6>
-                                    <p class="mb-0 small">Construction Materials</p>
-                                </div>
-                            </div>
-                            <p class="mb-0">"We've worked with many transport companies, but Banse Brothers stands out for their exceptional customer service and ability to handle our heavy loads safely."</p>
-                        </div>
-                        
-                        <!-- Testimonial item -->
-                        <div class="card card-body shadow p-4 h-100 mb-4">
-                            <div class="d-flex mb-3">
-                                <div class="avatar avatar-lg me-3">
-                                    <img class="avatar-img rounded-circle" src="assets/media/avatar/04.jpg" alt="">
-                                </div>
-                                <div>
-                                    <h6 class="mb-0">Lisa Wong</h6>
-                                    <p class="mb-0 small">E-commerce Platform</p>
-                                </div>
-                            </div>
-                            <p class="mb-0">"Their tracking system gives us real-time updates on all our shipments. This transparency has improved our customer satisfaction significantly."</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- =======================
-Testimonials END -->
 
 <!-- =======================
 CTA START -->
