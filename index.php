@@ -7,14 +7,14 @@
 
     <!-- =======================
     Main banner START -->
-    <section class="position-relative py-8 py-sm-9" style="background-image:url(<?= PROOT; ?>assets/media/cover-2.jpg); background-position: center left; background-size: cover;">
+    <section class="position-relative py-8 py-sm-9" style="background-image:url(<?= PROOT; ?>assets/media/trucks/truck-3.jpg); background-position: center left; background-size: cover;">
         <!-- Background dark overlay -->
         <div class="bg-overlay bg-dark opacity-2"></div>
         <div class="container z-index-9 position-relative">
             <div class="row">
                 <div class="col-xl-8 m-auto text-center py-xl-8">
                     <h1 class="display-5 text-white mb-3">Fast & Sustainable Road Freight Solutions</h1>
-                    <h5 class="lead text-secondary mb-3">Express pallet & cargo shipping with same-day or next-day delivery, on as little as one hour's notice. Real-time tracking. Optimized routes. The best customer experience.</h5>
+                    <p class="lead text-white mb-3">Express pallet & cargo shipping with same-day or next-day delivery, on as little as one hour's notice. Real-time tracking. Optimized routes. The best customer experience.</p>
                     <a href="<?= PROOT; ?>about" class="btn btn-lg btn-dark mb-0">Discover More</a>
                 </div>
             </div> <!-- Row END -->
