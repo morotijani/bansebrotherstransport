@@ -55,8 +55,11 @@
                 
                 <!-- Contact form -->
                 <div class="col-lg-7">
-                    <div class="card shadow p-4">
-                        <h3 class="mb-4">Send Us a Message</h3>
+                    <div class="card bg-light p-4">
+                        <!-- Card header -->
+                        <div class="card-header bg-light p-0 pb-3">
+                            <h3 class="mb-0">Send us message</h3>
+                        </div>
                         <form>
                             <div class="row g-3">
                                 <!-- Name -->

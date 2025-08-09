@@ -85,15 +85,15 @@
 	<!-- Theme CSS -->
 	<link rel="stylesheet" type="text/css" href="<?= PROOT; ?>assets/css/style.css">
 	<style>
-		*, body {
-			font-family: "Raleway", "Roboto", sans-serif;
+		*, body, h1, h2, h3, h4, h5, h6, p {
+			font-family: "Roboto", sans-serif;
 			font-optical-sizing: auto;
 			font-style: normal;
 		}
 	</style>
 </head>
 <body>
-	
+
 	<!-- Offcanvas menu START -->
 	<div class="offcanvas offcanvas-w-500px offcanvas-end" tabindex="-1" id="offcanvasBookstay" aria-labelledby="offcanvasBookstayLabel">
 		<div class="offcanvas-header border-bottom px-3">
