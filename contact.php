@@ -34,8 +34,8 @@
                     <div class="mb-4">
                         <h5>Contact Information</h5>
                         <ul class="list-unstyled mb-0">
-                            <li class="mb-3"><i class="bi bi-geo-alt me-2"></i>123 Transport Avenue, Logistics City, ST 12345</li>
-                            <li class="mb-3"><i class="bi bi-telephone me-2"></i><a href="tel:+1234567890">+123 456 7890</a></li>
+                            <li class="mb-3"><i class="bi bi-geo-alt me-2"></i>123 Kumasi Techiman Rd, Kodie, AF- 006-0069</li>
+                            <li class="mb-3"><i class="bi bi-telephone me-2"></i><a href="tel:+1234567890">+233 24 451 2130</a></li>
                             <li class="mb-3"><i class="bi bi-envelope me-2"></i><a href="mailto:info@bansebrotherstransport.com">info@bansebrotherstransport.com</a></li>
                             <li><i class="bi bi-clock me-2"></i>Monday - Friday: 8:00 AM - 6:00 PM</li>
                         </ul>
@@ -108,7 +108,8 @@
             <div class="row">
                 <div class="col-12">
                     <div class="ratio ratio-21x9">
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.9663095343008!2d-74.00425878428698!3d40.74076684379132!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259bf5c1654f3%3A0xc80f9cfce5383d5d!2sGoogle!5e0!3m2!1sen!2sus!4v1586000412513!5m2!1sen!2sus" height="450" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d792.6072287395015!2d-1.6469840936284041!3d6.823430859199083!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xfdbbd77f7a55e25%3A0xfca08d73c7c9f375!2sNASONA%20GAS%20STATION!5e1!3m2!1sen!2sgh!4v1754758948528!5m2!1sen!2sgh" height="450" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+
                     </div>
                 </div>
             </div>
