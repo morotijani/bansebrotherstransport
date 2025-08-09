@@ -198,7 +198,7 @@
                             <div class="d-flex">
                                 <span class="icon-lg bg-primary bg-opacity-10 text-primary rounded-circle"><i class="bi bi-truck"></i></span>
                                 <div class="ms-3">
-                                    <h5 class="mb-0">500+</h5>
+                                    <h5 class="mb-0">200+</h5>
                                     <p class="mb-0">Vehicles in Fleet</p>
                                 </div>
                             </div>
@@ -231,7 +231,7 @@
                             <div class="d-flex">
                                 <span class="icon-lg bg-danger bg-opacity-10 text-danger rounded-circle"><i class="bi bi-clock-history"></i></span>
                                 <div class="ms-3">
-                                    <h5 class="mb-0">15+</h5>
+                                    <h5 class="mb-0">35+</h5>
                                     <p class="mb-0">Years Experience</p>
                                 </div>
                             </div>
