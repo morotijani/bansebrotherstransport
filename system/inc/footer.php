@@ -15,7 +15,7 @@
                         <img class="h-40px" src="<?= PROOT; ?>assets/media/logo/logo-nb.png" alt="logo">
                     </a>
                     <p class="my-3 text-body-secondary">Fast & Sustainable Road Freight Solutions for your business. Reliable, efficient, and eco-friendly transport services.</p>
-                    <p class="mb-2"><a href="tel:+1234567890" class="text-body-secondary text-primary-hover"><i class="bi bi-telephone me-2"></i>+123 456 7890</a> </p>
+                    <p class="mb-2"><a href="tel:+1234567890" class="text-body-secondary text-primary-hover"><i class="bi bi-telephone me-2"></i>+233 24 451 2130</a> </p>
                     <p class="mb-0"><a href="mailto:info@bansebrotherstransport.com" class="text-body-secondary text-primary-hover"><i class="bi bi-envelope me-2"></i>info@bansebrotherstransport.com</a></p>
                 </div>
                 <!-- Widget 1 END -->
@@ -27,10 +27,10 @@
                         <div class="col-6 col-md-3">
                             <h5 class="text-white mb-2 mb-md-4">Company</h5>
                             <ul class="nav flex-column text-primary-hover">
-                                <li class="nav-item"><a class="nav-link text-body-secondary" href="<?= PROOT; ?>about.php">About Us</a></li>
-                                <li class="nav-item"><a class="nav-link text-body-secondary" href="<?= PROOT; ?>contact.php">Contact Us</a></li>
-                                <li class="nav-item"><a class="nav-link text-body-secondary" href="<?= PROOT; ?>blog.php">News and Blog</a></li>
-                                <li class="nav-item"><a class="nav-link text-body-secondary" href="<?= PROOT; ?>team.php">Meet Our Team</a></li>
+                                <li class="nav-item"><a class="nav-link text-body-secondary" href="<?= PROOT; ?>about">About Us</a></li>
+                                <li class="nav-item"><a class="nav-link text-body-secondary" href="<?= PROOT; ?>contact">Contact Us</a></li>
+                                <!-- <li class="nav-item"><a class="nav-link text-body-secondary" href="blog">News and Blog</a></li> -->
+                                <li class="nav-item"><a class="nav-link text-body-secondary" href="<?= PROOT; ?>team">Meet Our Team</a></li>
                             </ul>
                         </div>
 
