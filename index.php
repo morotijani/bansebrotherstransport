@@ -14,7 +14,7 @@
             <div class="row">
                 <div class="col-xl-8 m-auto text-center py-xl-8">
                     <h1 class="display-5 text-white mb-3">Fast & Sustainable Road Freight Solutions</h1>
-                    <p class="lead text-white mb-3">Express pallet & cargo shipping with same-day or next-day delivery, on as little as one hour's notice. Real-time tracking. Optimized routes. The best customer experience.</p>
+                    <p class="lead text-white mb-3" style="font-weight: lighter;">Express pallet & cargo shipping with same-day or next-day delivery, on as little as one hour's notice. Real-time tracking. Optimized routes. The best customer experience.</p>
                     <a href="<?= PROOT; ?>about" class="btn btn-lg btn-dark mb-0">Discover More</a>
                 </div>
             </div> <!-- Row END -->
