@@ -69,7 +69,7 @@
 	</script>
 
 	<!-- Favicon -->
-	<link rel="shortcut icon" href="<?= PROOT; ?>assets/media/logo/logo.jpg">
+	<link rel="shortcut icon" href="<?= PROOT; ?>assets/media/logo/logo-nb.png">
 
 	<!-- Google Font -->
 	<link rel="preconnect" href="https://fonts.googleapis.com">

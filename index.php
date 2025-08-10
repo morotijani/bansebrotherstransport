@@ -190,7 +190,7 @@
                 <!-- Left side -->
                 <div class="col-lg-6 position-relative">
                     <h2 class="fs-1">Global Reach, Unmatched Reliability</h2>
-                    <p>Our extensive network allows us to deliver your goods anywhere in the country with precision and care. We pride ourselves on maintaining the highest standards of service quality and customer satisfaction.</p>
+                    <p>Our extensive network allows us to deliver your goods anywhere in the African continent with precision and care. We pride ourselves on maintaining the highest standards of service quality and customer satisfaction.</p>
                     
                     <div class="row mt-4 g-4">
                         <!-- Stat item -->
