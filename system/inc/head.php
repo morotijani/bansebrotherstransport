@@ -74,7 +74,7 @@
 	<!-- Google Font -->
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-	<link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Chivo:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
 
 	<!-- Plugins CSS -->
 	<link rel="stylesheet" type="text/css" href="<?= PROOT; ?>assets/css/all.min.css">
@@ -86,8 +86,9 @@
 	<link rel="stylesheet" type="text/css" href="<?= PROOT; ?>assets/css/style.css">
 	<style>
 		*, body, h1, h2, h3, h4, h5, h6, p {
-			font-family: "Roboto", sans-serif;
+			font-family: "Chivo", Roboto, sans-serif;
 			font-optical-sizing: auto;
+			font-weight: normal;
 			font-style: normal;
 		}
 	</style>
