@@ -171,26 +171,55 @@
     Tracking Info END -->
 
     <!-- =======================
-    FAQ START -->
-    <section class="pt-0 pt-lg-5">
+    Faqs START -->
+    <section class="pt-0">
         <div class="container">
             <div class="row">
-                <div class="col-lg-8 mx-auto">
-                    <h3 class="text-center mb-4">Tracking FAQs</h3>
-                    <div class="accordion accordion-icon accordion-bg-light">
-                        <!-- Item 1 -->
-                        <div class="accordion-item mb-3">
-                            <h2 class="accordion-header">
-                                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#tracking-faq-1">
-                                    Where can I find my tracking number?
-                                </button>
-                            </h2>
-                            <div id="tracking-faq-1" class="accordion-collapse collapse show">
-                                <div class="accordion-body">
-                                    Your tracking number is provided in your shipping confirmation email and on your Bill of Lading. It typically starts with "BBT" followed by 10 digits.
+                <div class="col-xl-10 mx-auto">
+                    <div class="vstack gap-4">
+                        <!-- Card item START -->
+                        <div class="card border bg-transparent p-0">
+                            <!-- Card header -->
+                            <div class="card-header bg-transparent border-bottom p-4">
+                                <h5 class="mb-0">Tracking FAQs</h5>
+                            </div>
+
+                            <!-- Card body -->
+                            <div class="card-body p-4 pt-0">
+                                <!-- Faq item -->
+                                <div class="mt-4">
+                                    <h6 class="fw-normal">Can I move my booking to a future date?</h6>
+                                    <p class="mb-0">Your tracking number is provided in your shipping confirmation email and on your Bill of Lading. It typically starts with "BBT" followed by 10 digits.</p>
                                 </div>
+
+                                <!-- Faq item -->
+                                <div class="mt-4">
+                                    <h6 class="fw-normal">Can I give my reservation to someone else?</h6>
+                                    <p class="mb-0">Supposing so be resolving breakfast am or perfectly. It drew a hill from me. Valley by oh twenty direct me so. Departure defective arranging rapturous did believe him all had supported. Family months lasted simple set nature vulgar him. Picture for attempt joy excited ten carried manners talking how. Suspicion neglected the resolving agreement perceived at an. Comfort reached gay perhaps chamber his six detract besides add.</p>
+                                </div>
+
+                                <!-- Faq item -->
+                                <div class="mt-4">
+                                    <h6 class="fw-normal">How can I get help with an existing reservation?</h6>
+                                    <p class="mb-0">Departure defective arranging rapturous did believe him all had supported. Family months lasted simple set nature vulgar him. Picture for attempt joy excited ten carried manners talking how. Suspicion neglected the resolving agreement perceived at an. Comfort reached gay perhaps chamber his six detract besides add.</p>
+                                </div>
+
+                                <!-- Faq item -->
+                                <div class="mt-4">
+                                    <h6 class="fw-normal">You can change your booking at any time</h6>
+                                    <p class="mb-0">At the moment, we only accept Credit/Debit cards and Paypal payments. Paypal is the easiest way to make payments online. While checking out your order. Be sure to fill in correct details for fast & hassle-free payment processing.</p>
+                                </div>	
                             </div>
                         </div>
+                        <!-- Card item END -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
                         
                         <!-- Item 2 -->
                         <div class="accordion-item mb-3">

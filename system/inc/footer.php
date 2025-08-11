@@ -50,11 +50,11 @@
                         <div class="col-6 col-md-3">
                             <h5 class="text-white mb-2 mb-md-4">Support</h5>
                             <ul class="nav flex-column text-primary-hover">
-                                <li class="nav-item"><a class="nav-link text-body-secondary" href="<?= PROOT; ?>quote.php">Get a Quote</a></li>
-                                <li class="nav-item"><a class="nav-link text-body-secondary" href="<?= PROOT; ?>tracking.php">Track Shipment</a></li>
-                                <li class="nav-item"><a class="nav-link text-body-secondary" href="<?= PROOT; ?>privacy.php">Privacy Policy</a></li>
-                                <li class="nav-item"><a class="nav-link text-body-secondary" href="<?= PROOT; ?>terms.php">Terms & Conditions</a></li>
-                                <li class="nav-item"><a class="nav-link text-body-secondary" href="<?= PROOT; ?>faq.php">FAQ</a></li>
+                                <li class="nav-item"><a class="nav-link text-body-secondary" href="<?= PROOT; ?>quote">Get a Quote</a></li>
+                                <li class="nav-item"><a class="nav-link text-body-secondary" href="<?= PROOT; ?>tracking">Track Shipment</a></li>
+                                <li class="nav-item"><a class="nav-link text-body-secondary" href="<?= PROOT; ?>privacy">Privacy Policy</a></li>
+                                <li class="nav-item"><a class="nav-link text-body-secondary" href="<?= PROOT; ?>terms">Terms & Conditions</a></li>
+                                <li class="nav-item"><a class="nav-link text-body-secondary" href="<?= PROOT; ?>faq">FAQ</a></li>
                             </ul>
                         </div>
 
