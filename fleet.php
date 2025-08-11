@@ -36,7 +36,7 @@
                 <!-- Category 1 -->
                 <div class="col-md-4">
                     <div class="card h-100">
-                        <img src="<?= PROOT; ?>assets/media/trucks/truck-1.jpg" class="card-img-top" alt="Semi Truck">
+                        <img src="<?= PROOT; ?>assets/media/trucks/truck-4.jpg" class="card-img-top" alt="Semi Truck">
                         <div class="card-body">
                             <h5 class="card-title">Semi Trucks</h5>
                             <p class="card-text">Our standard semi trucks are perfect for long-haul shipments and full truckload services. Each truck is equipped with GPS tracking and advanced safety features.</p>
@@ -52,7 +52,7 @@
                 <!-- Category 2 -->
                 <div class="col-md-4">
                     <div class="card h-100">
-                        <img src="<?= PROOT; ?>assets/media/trucks/truck-2.jpg" class="card-img-top" alt="Refrigerated Truck">
+                        <img src="<?= PROOT; ?>assets/media/trucks/truck-5.jpg" class="card-img-top" alt="Refrigerated Truck">
                         <div class="card-body">
                             <h5 class="card-title">Refrigerated Trucks</h5>
                             <p class="card-text">Our temperature-controlled fleet ensures your perishable goods arrive in perfect condition. Advanced cooling systems maintain consistent temperatures throughout transit.</p>
@@ -68,7 +68,7 @@
                 <!-- Category 3 -->
                 <div class="col-md-4">
                     <div class="card h-100">
-                        <img src="<?= PROOT; ?>assets/media/trucks/truck-3.jpg" class="card-img-top" alt="Box Truck">
+                        <img src="<?= PROOT; ?>assets/media/trucks/truck-6.jpg" class="card-img-top" alt="Box Truck">
                         <div class="card-body">
                             <h5 class="card-title">Box Trucks</h5>
                             <p class="card-text">Ideal for local deliveries and smaller shipments, our box trucks provide flexible solutions for urban logistics and last-mile delivery needs.</p>
