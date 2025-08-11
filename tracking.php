@@ -188,14 +188,14 @@
                             <div class="card-body p-4 pt-0">
                                 <!-- Faq item -->
                                 <div class="mt-4">
-                                    <h6 class="fw-normal">Can I move my booking to a future date?</h6>
+                                    <h6 class="fw-normal">Where can I find my tracking number?</h6>
                                     <p class="mb-0">Your tracking number is provided in your shipping confirmation email and on your Bill of Lading. It typically starts with "BBT" followed by 10 digits.</p>
                                 </div>
 
                                 <!-- Faq item -->
                                 <div class="mt-4">
-                                    <h6 class="fw-normal">Can I give my reservation to someone else?</h6>
-                                    <p class="mb-0">Supposing so be resolving breakfast am or perfectly. It drew a hill from me. Valley by oh twenty direct me so. Departure defective arranging rapturous did believe him all had supported. Family months lasted simple set nature vulgar him. Picture for attempt joy excited ten carried manners talking how. Suspicion neglected the resolving agreement perceived at an. Comfort reached gay perhaps chamber his six detract besides add.</p>
+                                    <h6 class="fw-normal">How often is tracking information updated?</h6>
+                                    <p class="mb-0">Tracking information is updated in real-time as your shipment progresses through our transportation network. Major updates occur at pickup, during transit at key checkpoints, and upon delivery.</p>
                                 </div>
 
                                 <!-- Faq item -->
@@ -221,20 +221,6 @@
 
 
                         
-                        <!-- Item 2 -->
-                        <div class="accordion-item mb-3">
-                            <h2 class="accordion-header">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#tracking-faq-2">
-                                    How often is tracking information updated?
-                                </button>
-                            </h2>
-                            <div id="tracking-faq-2" class="accordion-collapse collapse">
-                                <div class="accordion-body">
-                                    Tracking information is updated in real-time as your shipment progresses through our transportation network. Major updates occur at pickup, during transit at key checkpoints, and upon delivery.
-                                </div>
-                            </div>
-                        </div>
-                        
                         <!-- Item 3 -->
                         <div class="accordion-item mb-3">
                             <h2 class="accordion-header">
@@ -244,7 +230,7 @@
                             </h2>
                             <div id="tracking-faq-3" class="accordion-collapse collapse">
                                 <div class="accordion-body">
-                                    If your tracking information hasn't updated in 24 hours, please contact our customer service team. There might be a delay in scanning or a technical issue that needs to be addressed.
+                                    
                                 </div>
                             </div>
                         </div>
