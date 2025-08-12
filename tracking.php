@@ -207,7 +207,7 @@
                                 <!-- Faq item -->
                                 <div class="mt-4">
                                     <h6 class="fw-normal">You can change your booking at any time</h6>
-                                    <p class="mb-0">At the moment, we only accept Credit/Debit cards and Paypal payments. Paypal is the easiest way to make payments online. While checking out your order. Be sure to fill in correct details for fast & hassle-free payment processing.</p>
+                                    <p class="mb-0">If your tracking information hasn't updated in 24 hours, please contact our customer service team. There might be a delay in scanning or a technical issue that needs to be addressed.</p>
                                 </div>	
                             </div>
                         </div>
