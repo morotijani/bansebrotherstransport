@@ -231,14 +231,6 @@
                             <div id="tracking-faq-3" class="accordion-collapse collapse">
                                 <div class="accordion-body">
                                     
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
     <!-- =======================
     FAQ END -->
 
