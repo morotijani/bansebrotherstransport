@@ -200,12 +200,6 @@
 
                                 <!-- Faq item -->
                                 <div class="mt-4">
-                                    <h6 class="fw-normal">How can I get help with an existing reservation?</h6>
-                                    <p class="mb-0">Departure defective arranging rapturous did believe him all had supported. Family months lasted simple set nature vulgar him. Picture for attempt joy excited ten carried manners talking how. Suspicion neglected the resolving agreement perceived at an. Comfort reached gay perhaps chamber his six detract besides add.</p>
-                                </div>
-
-                                <!-- Faq item -->
-                                <div class="mt-4">
                                     <h6 class="fw-normal">What if my tracking information isn't updating?</h6>
                                     <p class="mb-0">If your tracking information hasn't updated in 24 hours, please contact our customer service team. There might be a delay in scanning or a technical issue that needs to be addressed.</p>
                                 </div>	
