@@ -206,7 +206,7 @@
 
                                 <!-- Faq item -->
                                 <div class="mt-4">
-                                    <h6 class="fw-normal">You can change your booking at any time</h6>
+                                    <h6 class="fw-normal">What if my tracking information isn't updating?</h6>
                                     <p class="mb-0">If your tracking information hasn't updated in 24 hours, please contact our customer service team. There might be a delay in scanning or a technical issue that needs to be addressed.</p>
                                 </div>	
                             </div>
@@ -216,21 +216,7 @@
                 </div>
             </div>
         </div>
-    </section>
-
-
-
-                        
-                        <!-- Item 3 -->
-                        <div class="accordion-item mb-3">
-                            <h2 class="accordion-header">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#tracking-faq-3">
-                                    What if my tracking information isn't updating?
-                                </button>
-                            </h2>
-                            <div id="tracking-faq-3" class="accordion-collapse collapse">
-                                <div class="accordion-body">
-                                    
+    </section>                                  
     <!-- =======================
     FAQ END -->
 
